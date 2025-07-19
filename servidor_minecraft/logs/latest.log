@@ -2353,3 +2353,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [19Jul2025 19:20:52.936] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
 [19Jul2025 19:20:52.936] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
 [19Jul2025 19:20:52.936] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[19Jul2025 19:20:59.150] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.148414611816406) to NORMAL (avg. 42.378509521484375)
+[19Jul2025 19:21:07.144] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.378509521484375) to MEDIUM (avg. 46.23141098022461)
+[19Jul2025 19:21:20.777] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.23141098022461) to HIGH (avg. 50.33461380004883)
+[19Jul2025 19:21:35.760] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.33461380004883) to LOW (avg. 37.984092712402344)
+[19Jul2025 19:23:55.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel was kicked for floating too long!
+[19Jul2025 19:23:55.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel lost connection: Disconnected
+[19Jul2025 19:23:55.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel left the game
+[19Jul2025 19:23:55.242] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jul2025 19:24:05.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.611766815185547) to VERY_LOW (avg. 18.528181076049805)
+[19Jul2025 19:24:45.798] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ceec9b1[id=<null>,name=verganuel,properties={},legacy=false] (/100.79.178.109:49445) lost connection: Disconnected
+[19Jul2025 19:24:50.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.04361915588379) to LOW (avg. 20.106348037719727)
+[19Jul2025 19:25:05.673] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.106348037719727) to VERY_LOW (avg. 19.255739212036133)
+[19Jul2025 19:25:23.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: verganuel[/100.79.178.109:49449] logged in with entity id 365288 at (1138.3224287660446, 84.32999309488501, -192.4120084859635)
+[19Jul2025 19:25:23.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel joined the game
+[19Jul2025 19:25:23.444] [Server thread/INFO] [APTweaks(Player)/]: Player verganuel ServerPlayer['verganuel'/365288, l='ServerLevel[world]', x=1138.32, y=84.33, z=-192.41] logged in and will be protected for 90 secs.
+[19Jul2025 19:25:28.173] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.409799575805664) to LOW (avg. 22.86429786682129)
+[19Jul2025 19:26:02.874] [Server thread/INFO] [APTweaks(Player)/]: Protected Player verganuel was successful validated after 39 secs.
+[19Jul2025 19:26:02.874] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player verganuel!
+[19Jul2025 19:28:15.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [First Step]
+[19Jul2025 19:31:08.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Not a Diamond]
+[19Jul2025 19:31:08.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [It All Starts With This...]

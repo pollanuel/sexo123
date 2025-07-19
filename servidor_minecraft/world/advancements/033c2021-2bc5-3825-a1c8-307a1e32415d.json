@@ -2558,6 +2558,7 @@
       "minecraft:skeleton": "2025-07-19 18:16:58 +0000",
       "minecraft:vindicator": "2025-07-19 01:00:40 +0000",
       "minecraft:spider": "2025-07-19 18:15:21 +0000",
+      "minecraft:phantom": "2025-07-19 19:26:23 +0000",
       "minecraft:witch": "2025-07-19 01:03:19 +0000",
       "minecraft:zombie": "2025-07-19 00:03:03 +0000"
     },
@@ -4754,6 +4755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/barrel_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 19:11:03 +0000"
@@ -4784,6 +4791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-19 19:16:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 19:15:50 +0000"
@@ -4805,6 +4818,18 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-19 19:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
     },
     "done": true
   },
@@ -4832,6 +4857,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_carved_pumpkin": "2025-07-19 19:06:22 +0000"
@@ -4850,6 +4893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-19 19:16:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 19:15:50 +0000"
@@ -4859,6 +4908,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-19 19:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-19 19:16:49 +0000"
     },
     "done": true
   },
@@ -4907,6 +4962,12 @@
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 19:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-19 19:16:46 +0000"
     },
     "done": true
   },
@@ -4961,6 +5022,12 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 19:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
     },
     "done": true
   },
@@ -5072,9 +5139,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/chest_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 19:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
     },
     "done": true
   },
@@ -5102,9 +5181,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_stairs_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 19:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
     },
     "done": true
   },
@@ -5132,9 +5223,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-19 19:16:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 19:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
     },
     "done": true
   },
@@ -5193,6 +5302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-19 19:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-19 19:11:52 +0000"
@@ -5214,6 +5329,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-07-19 19:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-19 19:16:49 +0000"
     },
     "done": true
   },
