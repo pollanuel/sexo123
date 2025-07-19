@@ -1749,8 +1749,10 @@
     "criteria": {
       "minecraft:beach": "2025-07-19 18:21:20 +0000",
       "minecraft:river": "2025-07-19 00:45:19 +0000",
+      "minecraft:swamp": "2025-07-19 18:57:03 +0000",
       "minecraft:forest": "2025-07-19 00:51:58 +0000",
       "minecraft:meadow": "2025-07-19 00:05:49 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-19 19:00:31 +0000",
       "minecraft:plains": "2025-07-19 00:07:57 +0000"
     },
     "done": false
@@ -1806,6 +1808,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-19 18:32:46 +0000",
+      "minecraft:skeleton": "2025-07-19 19:06:04 +0000",
       "minecraft:vindicator": "2025-07-19 18:32:43 +0000",
       "minecraft:spider": "2025-07-19 00:37:44 +0000",
       "minecraft:witch": "2025-07-19 18:24:16 +0000"
@@ -4319,6 +4322,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-19 19:05:59 +0000"
+    },
+    "done": true
+  },
   "inventorypets:cow": {
     "criteria": {
       "crafting_table": "2025-07-19 18:52:55 +0000"
@@ -4334,6 +4343,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-07-19 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-07-19 19:05:16 +0000"
     },
     "done": true
   },
