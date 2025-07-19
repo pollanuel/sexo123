@@ -2536,7 +2536,8 @@
       "bread": "2025-07-19 00:02:36 +0000",
       "glow_berries": "2025-07-19 00:32:43 +0000",
       "mushroom_stew": "2025-07-19 01:47:01 +0000",
-      "rabbit_stew": "2025-07-19 00:56:52 +0000"
+      "rabbit_stew": "2025-07-19 00:56:52 +0000",
+      "carrot": "2025-07-19 19:27:58 +0000"
     },
     "done": false
   },
@@ -4761,9 +4762,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/barrel_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 19:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
     },
     "done": true
   },
@@ -4791,6 +4804,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-07-19 19:16:46 +0000"
@@ -4806,6 +4837,12 @@
   "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 19:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
     },
     "done": true
   },
@@ -4845,6 +4882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 19:11:03 +0000"
@@ -4863,9 +4906,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_button_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-07-19 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
     },
     "done": true
   },
@@ -4875,9 +4936,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_carved_pumpkin": "2025-07-19 19:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:09 +0000"
     },
     "done": true
   },
@@ -4893,9 +4972,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-07-19 19:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
     },
     "done": true
   },
@@ -4908,6 +4999,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-19 19:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:30:10 +0000"
     },
     "done": true
   },
@@ -4929,9 +5026,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-19 19:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:30:10 +0000"
     },
     "done": true
   },
@@ -4944,6 +5077,24 @@
   "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 19:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
     },
     "done": true
   },
@@ -5031,6 +5182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-19 19:11:52 +0000"
@@ -5049,9 +5206,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 19:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:30:10 +0000"
     },
     "done": true
   },
@@ -5067,9 +5242,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-19 19:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
     },
     "done": true
   },
@@ -5088,6 +5275,25 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-19 19:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:19 +0000",
+      "has_block": "2025-07-19 19:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
     },
     "done": true
   },
@@ -5127,6 +5333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-19 19:15:50 +0000"
@@ -5136,6 +5348,31 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-19 19:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:09 +0000",
+      "has_block": "2025-07-19 19:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:19 +0000"
     },
     "done": true
   },
@@ -5181,6 +5418,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-19 19:19:01 +0000"
@@ -5190,6 +5439,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_stairs_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 19:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
     },
     "done": true
   },
@@ -5226,6 +5481,24 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-19 19:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
     },
     "done": true
   },
@@ -5272,6 +5545,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 19:15:50 +0000"
@@ -5284,15 +5569,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-19 19:15:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-07-19 19:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
     },
     "done": true
   },
@@ -5308,9 +5617,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:30:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-19 19:11:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-19 19:30:10 +0000"
     },
     "done": true
   },
@@ -5329,6 +5650,24 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-07-19 19:15:50 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:chest": {
+    "criteria": {
+      "crafting_table": "2025-07-19 19:34:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:32:21 +0000"
     },
     "done": true
   },

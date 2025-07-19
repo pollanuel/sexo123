@@ -15477,3 +15477,179 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [19Jul2025 19:28:15.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [First Step]
 [19Jul2025 19:31:08.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Not a Diamond]
 [19Jul2025 19:31:08.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [It All Starts With This...]
+[19Jul2025 19:31:34.490] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[19Jul2025 19:31:34.540] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[19Jul2025 19:31:34.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 19:31:34.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 19:34:26.202] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:34:26.202] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:34:26.203] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:34:26.203] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:34:26.215] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:34:26.215] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:34:26.215] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:34:26.216] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:34:28.173] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.16153335571289) to NORMAL (avg. 40.787479400634766)
+[19Jul2025 19:34:28.534] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:34:40.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Pet Inventory]
+[19Jul2025 19:34:43.199] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.43437194824219) to MEDIUM (avg. 46.86582946777344)
+[19Jul2025 19:34:47.896] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2307, y=-50, z=-410}
+[19Jul2025 19:34:58.209] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.86582946777344) to NORMAL (avg. 43.95391082763672)
+[19Jul2025 19:35:05.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.95391082763672) to HIGH (avg. 50.106285095214844)
+[19Jul2025 19:35:07.469] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[19Jul2025 19:35:11.522] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[19Jul2025 19:35:20.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.106285095214844) to LOW (avg. 39.19864273071289)
+[19Jul2025 19:35:43.174] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.78233337402344) to NORMAL (avg. 40.439178466796875)
+[19Jul2025 19:36:10.573] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:36:10.573] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:36:10.573] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:36:10.574] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:36:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Friendly Fire]
+[19Jul2025 19:36:28.174] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.82621383666992) to LOW (avg. 35.92082214355469)
+[19Jul2025 19:36:34.500] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[19Jul2025 19:36:34.551] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[19Jul2025 19:36:34.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 19:36:34.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 19:36:48.371] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:pixie
+[19Jul2025 19:36:48.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Flabbergasted!]
+[19Jul2025 19:36:50.712] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.26878356933594) to NORMAL (avg. 42.14235305786133)
+[19Jul2025 19:37:03.063] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:03.063] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:03.123] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:03.124] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:07.055] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:07.055] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:07.055] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:07.055] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:07.056] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:07.648] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:07.649] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:13.174] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.725502014160156) to LOW (avg. 35.61824417114258)
+[19Jul2025 19:37:20.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.61824417114258) to NORMAL (avg. 45.07197952270508)
+[19Jul2025 19:37:28.187] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.07197952270508) to MEDIUM (avg. 46.37801742553711)
+[19Jul2025 19:37:35.718] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.37801742553711) to HIGH (avg. 49.201725006103516)
+[19Jul2025 19:37:42.637] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:42.679] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:42.679] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:42.679] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:42.680] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:44.567] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:44.567] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:44.567] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:44.568] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:50.196] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:50.196] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:50.196] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:50.197] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:37:50.716] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.201725006103516) to NORMAL (avg. 44.25956344604492)
+[19Jul2025 19:37:55.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Vwoop!]
+[19Jul2025 19:38:07.686] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:38:07.697] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:38:07.698] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:38:07.698] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:38:07.698] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:38:18.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MilerinotFound moved too quickly! -27.851723629193202,-5.750812921255317,34.888082724529745
+[19Jul2025 19:38:27.418] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:38:27.418] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:38:27.418] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:38:27.419] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:38:27.419] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:38:35.415] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:sea_serpent
+[19Jul2025 19:38:58.232] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.46009063720703) to HIGH (avg. 49.65715026855469)
+[19Jul2025 19:39:20.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.26320266723633) to LOW (avg. 38.654754638671875)
+[19Jul2025 19:39:35.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.654754638671875) to NORMAL (avg. 43.241024017333984)
+[19Jul2025 19:39:45.973] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:39:45.974] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:39:45.974] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:39:45.974] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:39:45.975] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:39:46.158] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:39:46.158] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:39:49.729] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=17, z=45}
+[19Jul2025 19:39:49.739] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=17, z=45}
+[19Jul2025 19:39:49.971] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:39:49.971] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:39:50.242] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:39:50.243] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:39:50.303] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=17, z=45}
+[19Jul2025 19:39:50.704] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.48965072631836) to MEDIUM (avg. 46.7237663269043)
+[19Jul2025 19:40:05.677] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.7237663269043) to LOW (avg. 39.660865783691406)
+[19Jul2025 19:40:07.910] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2544, y=17, z=96}
+[19Jul2025 19:40:07.940] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2544, y=17, z=96}
+[19Jul2025 19:40:08.285] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2531, y=17, z=32}
+[19Jul2025 19:40:08.285] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=17, z=45}
+[19Jul2025 19:40:08.286] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2536, y=17, z=32}
+[19Jul2025 19:40:08.328] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=17, z=45}
+[19Jul2025 19:40:08.902] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=17, z=45}
+[19Jul2025 19:40:11.544] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:40:11.544] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:40:11.545] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:40:11.545] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:40:11.545] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:40:13.453] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:40:13.453] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:40:13.454] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:40:13.454] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 19:40:20.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.660865783691406) to NORMAL (avg. 42.36859893798828)
+[19Jul2025 19:40:35.674] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.36859893798828) to LOW (avg. 36.758338928222656)
+[19Jul2025 19:40:56.827] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2586, y=17, z=62}
+[19Jul2025 19:40:56.827] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2575, y=17, z=61}
+[19Jul2025 19:40:56.900] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2544, y=17, z=96}
+[19Jul2025 19:40:56.905] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2575, y=17, z=61}
+[19Jul2025 19:40:56.915] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2544, y=17, z=96}
+[19Jul2025 19:40:57.080] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2535, y=17, z=67}
+[19Jul2025 19:40:57.081] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2536, y=17, z=49}
+[19Jul2025 19:40:57.082] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2531, y=17, z=32}
+[19Jul2025 19:40:57.082] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=17, z=61}
+[19Jul2025 19:40:57.091] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=17, z=61}
+[19Jul2025 19:41:04.374] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2543, y=17, z=88}
+[19Jul2025 19:41:04.387] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2543, y=17, z=88}
+[19Jul2025 19:41:04.388] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2535, y=17, z=67}
+[19Jul2025 19:41:04.493] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2544, y=17, z=96}
+[19Jul2025 19:41:04.499] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2556, y=31, z=71}
+[19Jul2025 19:41:04.527] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2544, y=17, z=96}
+[19Jul2025 19:41:04.531] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=17, z=68}
+[19Jul2025 19:41:04.558] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=17, z=68}
+[19Jul2025 19:41:04.559] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2586, y=17, z=62}
+[19Jul2025 19:41:05.678] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.77535629272461) to NORMAL (avg. 40.321441650390625)
+[19Jul2025 19:41:09.120] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2544, y=17, z=96}
+[19Jul2025 19:41:09.239] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=17, z=68}
+[19Jul2025 19:41:09.240] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=30, z=102}
+[19Jul2025 19:41:09.321] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2544, y=17, z=96}
+[19Jul2025 19:41:09.325] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=17, z=68}
+[19Jul2025 19:41:09.325] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=30, z=102}
+[19Jul2025 19:41:09.494] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2543, y=17, z=88}
+[19Jul2025 19:41:09.495] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2531, y=17, z=89}
+[19Jul2025 19:41:09.648] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2543, y=17, z=88}
+[19Jul2025 19:41:13.174] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.321441650390625) to LOW (avg. 38.921836853027344)
+[19Jul2025 19:41:17.958] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=30, z=102}
+[19Jul2025 19:41:17.959] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2574, y=30, z=103}
+[19Jul2025 19:41:18.088] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2544, y=17, z=96}
+[19Jul2025 19:41:18.091] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=30, z=102}
+[19Jul2025 19:41:18.092] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2548, y=17, z=97}
+[19Jul2025 19:41:18.092] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2574, y=30, z=103}
+[19Jul2025 19:41:18.092] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=37, z=113}
+[19Jul2025 19:41:18.098] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2544, y=17, z=96}
+[19Jul2025 19:41:18.101] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2548, y=17, z=97}
+[19Jul2025 19:41:18.102] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2547, y=17, z=128}
+[19Jul2025 19:41:18.237] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2531, y=17, z=89}
+[19Jul2025 19:41:18.237] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2547, y=17, z=128}
+[19Jul2025 19:41:18.237] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2535, y=17, z=124}
+[19Jul2025 19:41:18.238] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=3, z=105}
+[19Jul2025 19:41:18.238] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2536, y=17, z=96}
+[19Jul2025 19:41:18.244] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=3, z=105}
+[19Jul2025 19:41:20.032] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=17, z=123}
+[19Jul2025 19:41:20.070] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2547, y=17, z=128}
+[19Jul2025 19:41:20.071] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2535, y=17, z=124}
+[19Jul2025 19:41:20.071] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2540, y=17, z=130}
+[19Jul2025 19:41:20.071] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2536, y=17, z=114}
+[19Jul2025 19:41:20.071] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=17, z=123}
+[19Jul2025 19:41:20.093] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2548, y=17, z=97}
+[19Jul2025 19:41:20.094] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2547, y=17, z=128}
+[19Jul2025 19:41:20.094] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2548, y=17, z=118}
+[19Jul2025 19:41:20.572] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2574, y=30, z=103}
+[19Jul2025 19:41:20.577] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2548, y=17, z=97}
+[19Jul2025 19:41:20.578] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2574, y=30, z=103}
+[19Jul2025 19:41:20.579] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2548, y=17, z=118}
+[19Jul2025 19:41:20.579] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=37, z=113}
+[19Jul2025 19:41:20.747] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.921836853027344) to HIGH (avg. 51.29926300048828)

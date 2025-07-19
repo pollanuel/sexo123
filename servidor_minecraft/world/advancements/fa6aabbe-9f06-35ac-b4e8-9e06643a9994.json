@@ -4384,5 +4384,191 @@
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/harpy_feather": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_glass_shield": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:blaze": {
+    "criteria": {
+      "crafting_table": "2025-07-19 19:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-19 19:28:28 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_ward_crystal": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/glass_shield": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/anonymity_umbrella": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_lunar_crystal": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/misc/chroma_shard_unpack": {
+    "criteria": {
+      "has_unpackable": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_glow_ring": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_golden_heart": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "terramity:first_step_advancement": {
+    "criteria": {
+      "first_step_advancement_0": "2025-07-19 19:28:15 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/ward_crystal": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/shadow_treads": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:chroma_shard": {
+    "criteria": {
+      "has_item": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/advancing_heart": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_shadow_treads": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/friendly_fire_flower": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/misc/chroma_block": {
+    "criteria": {
+      "has_unpackable": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/food/magic_garlic_bread": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/duality_rings": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/vertical_stasis_stone": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-19 19:28:28 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/world_anchor": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/chromatic_upgrade_smithing_template": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/cursed_totem": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/chroma_salvager": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_harpy_feather": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/gravity_stone": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
