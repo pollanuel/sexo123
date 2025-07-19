@@ -1747,6 +1747,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-07-19 19:08:08 +0000",
       "minecraft:beach": "2025-07-19 18:21:20 +0000",
       "minecraft:river": "2025-07-19 00:45:19 +0000",
       "minecraft:swamp": "2025-07-19 18:57:03 +0000",
@@ -4328,6 +4329,12 @@
     },
     "done": true
   },
+  "inventorypets:10": {
+    "criteria": {
+      "example": "2025-07-19 19:09:10 +0000"
+    },
+    "done": true
+  },
   "inventorypets:cow": {
     "criteria": {
       "crafting_table": "2025-07-19 18:52:55 +0000"
@@ -4337,6 +4344,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-07-19 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:catacumbs_lugubrious": {
+    "criteria": {
+      "catacumbs_lugubrious_0": "2025-07-19 19:15:38 +0000"
     },
     "done": true
   },
@@ -4355,6 +4368,18 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-19 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:chest": {
+    "criteria": {
+      "crafting_table": "2025-07-19 19:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-19 19:15:30 +0000"
     },
     "done": true
   },
