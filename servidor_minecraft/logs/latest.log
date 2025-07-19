@@ -4848,3 +4848,23 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Jul2025 22:39:40.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Amateur Archaeologist]
 [19Jul2025 22:41:09.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> meneses
 [19Jul2025 22:41:12.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> tiene lapiz?
+[19Jul2025 22:46:13.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.805206298828125) to NORMAL (avg. 42.44610595703125)
+[19Jul2025 22:47:21.399] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.45490646362305) to MEDIUM (avg. 47.49439239501953)
+[19Jul2025 22:47:51.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.61281967163086) to NORMAL (avg. 40.05364227294922)
+[19Jul2025 22:48:06.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.05364227294922) to LOW (avg. 38.18653106689453)
+[19Jul2025 22:48:13.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.18653106689453) to NORMAL (avg. 41.71904754638672)
+[19Jul2025 22:48:21.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.71904754638672) to LOW (avg. 38.54539489746094)
+[19Jul2025 22:48:36.388] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.54539489746094) to NORMAL (avg. 42.68846130371094)
+[19Jul2025 22:48:37.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MilerinotFound lost connection: Disconnected
+[19Jul2025 22:48:37.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound left the game
+[19Jul2025 22:48:51.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.68846130371094) to LOW (avg. 36.14483642578125)
+[19Jul2025 22:50:04.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MilerinotFound[/100.123.100.53:53254] logged in with entity id 1494165 at (1149.8167746175175, 80.5, -181.47713845163113)
+[19Jul2025 22:50:04.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound joined the game
+[19Jul2025 22:50:04.698] [Server thread/INFO] [APTweaks(Player)/]: Player MilerinotFound ServerPlayer['MilerinotFound'/1494165, l='ServerLevel[world]', x=1149.82, y=80.50, z=-181.48] logged in and will be protected for 90 secs.
+[19Jul2025 22:50:06.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.97788429260254) to NORMAL (avg. 40.08555603027344)
+[19Jul2025 22:50:28.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.09933853149414) to LOW (avg. 39.352760314941406)
+[19Jul2025 22:50:28.936] [Server thread/INFO] [APTweaks(Player)/]: Protected Player MilerinotFound was successful validated after 24 secs.
+[19Jul2025 22:50:28.936] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invisible from player MilerinotFound!
+[19Jul2025 22:50:28.936] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player MilerinotFound!
+[19Jul2025 22:50:43.887] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.352760314941406) to NORMAL (avg. 45.714752197265625)
+[19Jul2025 22:51:21.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.8911247253418) to LOW (avg. 37.51533889770508)
