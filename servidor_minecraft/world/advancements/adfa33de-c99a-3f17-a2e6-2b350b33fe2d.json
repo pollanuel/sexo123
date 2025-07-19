@@ -1747,7 +1747,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-07-19 07:16:09 +0000",
+      "minecraft:river": "2025-07-19 07:11:15 +0000",
       "minecraft:stony_shore": "2025-07-19 00:41:57 +0000",
+      "minecraft:grove": "2025-07-19 07:12:41 +0000",
       "minecraft:forest": "2025-07-19 00:08:35 +0000",
       "minecraft:meadow": "2025-07-19 00:07:02 +0000",
       "minecraft:plains": "2025-07-19 00:37:22 +0000"
@@ -4076,6 +4079,18 @@
     },
     "done": true
   },
+  "inventorypets:saddle": {
+    "criteria": {
+      "crafting_table": "2025-07-19 07:19:09 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2025-07-19 07:19:09 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
     "criteria": {
       "has_amulet": "2025-07-19 07:09:52 +0000"
@@ -4145,6 +4160,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-07-19 06:47:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-07-19 07:18:03 +0000"
     },
     "done": true
   },
