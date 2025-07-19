@@ -14832,3 +14832,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Jul2025 21:29:38.486] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.408472061157227) to NORMAL (avg. 44.73039627075195)
 [19Jul2025 21:29:45.986] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.73039627075195) to LOW (avg. 39.36030578613281)
 [19Jul2025 21:30:00.986] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.36030578613281) to NORMAL (avg. 41.03363800048828)
+[19Jul2025 21:30:23.486] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.40937042236328) to LOW (avg. 30.266212463378906)
+[19Jul2025 21:31:00.172] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[19Jul2025 21:31:00.230] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[19Jul2025 21:31:00.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 21:31:00.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 21:31:53.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/2519, l='ServerLevel[world]', x=1074.85, y=80.63, z=-39.30] died: Honeyed Archer burned to death
+[19Jul2025 21:36:00.177] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[19Jul2025 21:36:00.254] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[19Jul2025 21:36:00.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 21:36:00.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 21:38:42.979] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [adfa33de-c99a-3f17-a2e6-2b350b33fe2d]
+[19Jul2025 21:38:50.210] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [adfa33de-c99a-3f17-a2e6-2b350b33fe2d]
+[19Jul2025 21:38:51.010] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [adfa33de-c99a-3f17-a2e6-2b350b33fe2d]
