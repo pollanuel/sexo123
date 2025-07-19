@@ -1754,6 +1754,7 @@
       "minecraft:beach": "2025-07-19 18:21:20 +0000",
       "minecraft:river": "2025-07-19 00:45:19 +0000",
       "minecraft:swamp": "2025-07-19 18:57:03 +0000",
+      "minecraft:cold_ocean": "2025-07-19 23:26:39 +0000",
       "minecraft:forest": "2025-07-19 00:51:58 +0000",
       "minecraft:ocean": "2025-07-19 19:37:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-19 19:36:38 +0000",
@@ -2023,6 +2024,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-19 23:23:32 +0000",
+      "cooked_beef": "2025-07-19 23:27:35 +0000",
       "beef": "2025-07-19 00:56:44 +0000",
       "bread": "2025-07-19 01:14:48 +0000",
       "salmon": "2025-07-19 00:46:28 +0000",
@@ -4720,6 +4723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-19 23:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-19 22:48:34 +0000"
@@ -4807,6 +4816,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-19 22:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 23:22:39 +0000"
     },
     "done": true
   },
@@ -4924,6 +4939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 23:22:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-19 22:48:34 +0000"
@@ -4960,6 +4981,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 23:29:24 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_block": {
+    "criteria": {
+      "has_copper_block": "2025-07-19 23:29:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-19 22:57:40 +0000"
@@ -4969,6 +5002,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-19 22:57:40 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_clump": {
+    "criteria": {
+      "has_copper_block": "2025-07-19 23:29:24 +0000"
     },
     "done": true
   },
@@ -5026,6 +5065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 23:29:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-19 22:43:41 +0000"
@@ -5053,6 +5098,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-19 22:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 23:29:24 +0000"
     },
     "done": true
   },
