@@ -2676,3 +2676,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Jul2025 21:30:00.986] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.36030578613281) to NORMAL (avg. 41.03363800048828)
 [19Jul2025 21:30:23.486] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.40937042236328) to LOW (avg. 30.266212463378906)
 [19Jul2025 21:31:53.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/2519, l='ServerLevel[world]', x=1074.85, y=80.63, z=-39.30] died: Honeyed Archer burned to death
+[19Jul2025 21:44:35.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Blood Bank]
+[19Jul2025 21:52:48.219] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/553940, l='ServerLevel[world]', x=1247.50, y=-1.00, z=-6.50]
+[19Jul2025 21:59:46.187] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.72801971435547) to HIGH (avg. 51.1220703125)
+[19Jul2025 21:59:53.486] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.1220703125) to NORMAL (avg. 41.13459014892578)
+[19Jul2025 22:00:23.486] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.06291961669922) to LOW (avg. 37.95171356201172)
+[19Jul2025 22:00:31.015] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.95171356201172) to HIGH (avg. 49.69699478149414)
