@@ -3181,8 +3181,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-19 01:06:21 +0000",
+      "minecraft:vindicator": "2025-07-19 06:53:27 +0000",
       "minecraft:witch": "2025-07-19 01:46:47 +0000",
-      "minecraft:cave_spider": "2025-07-19 01:04:53 +0000"
+      "minecraft:cave_spider": "2025-07-19 01:04:53 +0000",
+      "minecraft:zombie": "2025-07-19 06:55:47 +0000"
     },
     "done": false
   },
@@ -4044,17 +4046,41 @@
     },
     "done": true
   },
+  "dungeons_and_combat:the_man_of_steel": {
+    "criteria": {
+      "the_man_of_steel_0": "2025-07-19 06:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-07-19 06:48:43 +0000"
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-07-19 06:57:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-07-19 06:48:43 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-19 06:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/holy_water_bottle_enhanced_from_ultimate": {
+    "criteria": {
+      "has_ultimate_holy_water": "2025-07-19 06:57:10 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
@@ -4071,6 +4097,18 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-19 06:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/holy_water_bottle_normal_from_enhanced": {
+    "criteria": {
+      "has_enhanced_holy_water": "2025-07-19 06:57:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "holy_water": "2025-07-19 06:57:10 +0000"
     },
     "done": true
   },
