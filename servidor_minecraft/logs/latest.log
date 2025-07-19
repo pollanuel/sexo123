@@ -4868,3 +4868,84 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Jul2025 22:50:28.936] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player MilerinotFound!
 [19Jul2025 22:50:43.887] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.352760314941406) to NORMAL (avg. 45.714752197265625)
 [19Jul2025 22:51:21.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.8911247253418) to LOW (avg. 37.51533889770508)
+[19Jul2025 22:51:43.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.119380950927734) to NORMAL (avg. 42.71797180175781)
+[19Jul2025 22:51:45.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Alex's Caves]
+[19Jul2025 22:51:51.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.71797180175781) to LOW (avg. 39.595489501953125)
+[19Jul2025 22:51:58.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [It Belongs in a Museum]
+[19Jul2025 22:52:06.387] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.595489501953125) to NORMAL (avg. 41.75914764404297)
+[19Jul2025 22:52:36.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.070335388183594) to LOW (avg. 39.1116828918457)
+[19Jul2025 22:52:43.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.1116828918457) to NORMAL (avg. 41.26667022705078)
+[19Jul2025 22:52:58.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.26667022705078) to LOW (avg. 38.69074630737305)
+[19Jul2025 22:53:21.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.19258117675781) to NORMAL (avg. 44.80897903442383)
+[19Jul2025 22:53:28.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.80897903442383) to LOW (avg. 39.407066345214844)
+[19Jul2025 22:53:43.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.407066345214844) to NORMAL (avg. 41.21237564086914)
+[19Jul2025 22:54:13.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.00138854980469) to LOW (avg. 37.28858947753906)
+[19Jul2025 22:54:36.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.8283576965332) to NORMAL (avg. 44.43413162231445)
+[19Jul2025 22:54:43.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.43413162231445) to LOW (avg. 39.35101318359375)
+[19Jul2025 22:55:01.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has reached the goal [Quaint Scribe]
+[19Jul2025 22:55:06.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.684730529785156) to NORMAL (avg. 40.47010803222656)
+[19Jul2025 22:55:28.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.9532585144043) to LOW (avg. 39.54896545410156)
+[19Jul2025 22:55:43.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.54896545410156) to NORMAL (avg. 40.67073059082031)
+[19Jul2025 22:56:36.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.15542221069336) to LOW (avg. 39.68938064575195)
+[19Jul2025 22:56:51.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.68938064575195) to NORMAL (avg. 44.6359748840332)
+[19Jul2025 22:57:21.404] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.79441833496094) to HIGH (avg. 49.03224182128906)
+[19Jul2025 22:57:28.887] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.03224182128906) to MEDIUM (avg. 46.01844024658203)
+[19Jul2025 22:57:43.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> meneses
+[19Jul2025 22:57:43.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.01844024658203) to NORMAL (avg. 44.500343322753906)
+[19Jul2025 22:57:47.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> tiene piedra ?
+[19Jul2025 22:57:51.423] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.500343322753906) to MEDIUM (avg. 46.82280731201172)
+[19Jul2025 22:57:52.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> nada
+[19Jul2025 22:57:59.121] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.82280731201172) to NORMAL (avg. 45.59102249145508)
+[19Jul2025 22:58:07.368] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/1637464, l='ServerLevel[world]', x=973.50, y=-10.00, z=-224.50]
+[19Jul2025 22:58:14.198] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.59102249145508) to HIGH (avg. 50.4332160949707)
+[19Jul2025 22:58:15.572] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 46.07673661) to VERY_HIGH (avg. 50.767462990000006)
+[19Jul2025 22:58:17.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Alex's Caves]
+[19Jul2025 22:58:22.446] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.4332160949707) to MEDIUM (avg. 48.48390579223633)
+[19Jul2025 22:58:30.510] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.48390579223633) to HIGH (avg. 51.50605010986328)
+[19Jul2025 22:58:45.160] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.50605010986328) to MEDIUM (avg. 46.41883850097656)
+[19Jul2025 22:58:59.667] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.41883850097656) to NORMAL (avg. 43.67621612548828)
+[19Jul2025 22:59:13.892] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.67621612548828) to MEDIUM (avg. 48.61825180053711)
+[19Jul2025 22:59:28.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.61825180053711) to NORMAL (avg. 42.02083206176758)
+[19Jul2025 22:59:51.407] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.681732177734375) to HIGH (avg. 49.33049774169922)
+[19Jul2025 22:59:58.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.33049774169922) to NORMAL (avg. 41.70204162597656)
+[19Jul2025 23:00:48.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[19Jul2025 23:01:06.582] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.892818450927734) to MEDIUM (avg. 46.483245849609375)
+[19Jul2025 23:01:13.889] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.483245849609375) to NORMAL (avg. 45.33429718017578)
+[19Jul2025 23:01:36.487] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.701873779296875) to MEDIUM (avg. 47.1058464050293)
+[19Jul2025 23:01:44.365] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.1058464050293) to HIGH (avg. 49.57023239135742)
+[19Jul2025 23:01:51.800] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.57023239135742) to MEDIUM (avg. 47.92316436767578)
+[19Jul2025 23:02:06.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.92316436767578) to LOW (avg. 39.26468276977539)
+[19Jul2025 23:02:21.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.26468276977539) to NORMAL (avg. 45.91685485839844)
+[19Jul2025 23:02:28.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.91685485839844) to MEDIUM (avg. 47.01925277709961)
+[19Jul2025 23:02:43.905] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.08128356933594) to HIGH (avg. 50.95027542114258)
+[19Jul2025 23:03:13.895] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.763267517089844) to MEDIUM (avg. 46.83637619018555)
+[19Jul2025 23:03:28.920] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.83637619018555) to HIGH (avg. 50.67626190185547)
+[19Jul2025 23:03:43.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.67626190185547) to NORMAL (avg. 43.957393646240234)
+[19Jul2025 23:04:06.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.27579879760742) to MEDIUM (avg. 47.40953063964844)
+[19Jul2025 23:04:21.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.40953063964844) to NORMAL (avg. 45.11030578613281)
+[19Jul2025 23:04:28.915] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.11030578613281) to MEDIUM (avg. 48.91205596923828)
+[19Jul2025 23:04:36.409] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.91205596923828) to HIGH (avg. 51.01685333251953)
+[19Jul2025 23:04:51.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.01685333251953) to NORMAL (avg. 45.18693161010742)
+[19Jul2025 23:05:13.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.974029541015625) to MEDIUM (avg. 47.004669189453125)
+[19Jul2025 23:05:30.676] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/1772070, l='ServerLevel[world]', x=482.70, y=-12.00, z=-82.50]
+[19Jul2025 23:05:55.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Beat Down]
+[19Jul2025 23:05:58.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.30059814453125) to NORMAL (avg. 43.30413818359375)
+[19Jul2025 23:06:01.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MilerinotFound moved wrongly!
+[19Jul2025 23:06:13.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MilerinotFound moved wrongly!
+[19Jul2025 23:06:28.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.450782775878906) to LOW (avg. 38.428279876708984)
+[19Jul2025 23:06:36.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.428279876708984) to NORMAL (avg. 40.72163391113281)
+[19Jul2025 23:06:43.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.72163391113281) to LOW (avg. 38.855899810791016)
+[19Jul2025 23:06:58.889] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.855899810791016) to NORMAL (avg. 45.04241180419922)
+[19Jul2025 23:07:58.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.6668815612793) to LOW (avg. 38.3004264831543)
+[19Jul2025 23:08:26.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Cooking with Nuggets]
+[19Jul2025 23:08:58.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.97444534301758) to NORMAL (avg. 40.21569061279297)
+[19Jul2025 23:09:06.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.21569061279297) to LOW (avg. 38.62078094482422)
+[19Jul2025 23:09:11.252] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[19Jul2025 23:09:11.253] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[19Jul2025 23:09:36.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.05076599121094) to NORMAL (avg. 43.56913757324219)
+[19Jul2025 23:09:43.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Magic Mod Mechanic]
+[19Jul2025 23:09:58.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.47563552856445) to LOW (avg. 39.85382843017578)
+[19Jul2025 23:10:01.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Who You Gonna Call?]
+[19Jul2025 23:10:21.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.885074615478516) to NORMAL (avg. 41.95984649658203)
+[19Jul2025 23:10:56.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Snoozefest]
+[19Jul2025 23:11:28.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.203208923339844) to MEDIUM (avg. 46.45074462890625)
