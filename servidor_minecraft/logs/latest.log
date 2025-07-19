@@ -5019,3 +5019,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Jul2025 23:31:40.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.15528106689453) to LOW (avg. 28.350189208984375)
 [19Jul2025 23:31:44.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved too quickly! -1.4617264009420978,1.0625,10.198763811407588
 [19Jul2025 23:31:44.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[19Jul2025 23:32:12.846] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.236675262451172) to NORMAL (avg. 41.06612014770508)
+[19Jul2025 23:33:05.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.66595458984375) to LOW (avg. 23.17355728149414)
+[19Jul2025 23:36:32.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[19Jul2025 23:37:29.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[19Jul2025 23:38:23.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panela_limon[/100.116.85.85:49636] logged in with entity id 2275453 at (1133.0012962500236, 73.0625, -216.8856068829825)
+[19Jul2025 23:38:23.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon joined the game
+[19Jul2025 23:38:24.042] [Server thread/INFO] [APTweaks(Player)/]: Player panela_limon ServerPlayer['panela_limon'/2275453, l='ServerLevel[world]', x=1133.00, y=73.06, z=-216.89] logged in and will be protected for 90 secs.
+[19Jul2025 23:39:22.786] [Server thread/INFO] [APTweaks(Player)/]: Protected Player panela_limon was successful validated after 58 secs.
+[19Jul2025 23:39:22.786] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player panela_limon!

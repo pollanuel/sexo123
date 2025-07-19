@@ -2024,6 +2024,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-19 23:40:35 +0000",
       "cooked_mutton": "2025-07-19 23:23:32 +0000",
       "cooked_beef": "2025-07-19 23:27:35 +0000",
       "beef": "2025-07-19 00:56:44 +0000",
@@ -5050,6 +5051,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-19 22:48:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-07-19 23:32:51 +0000"
     },
     "done": true
   },
