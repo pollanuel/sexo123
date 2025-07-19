@@ -1,4 +1,12 @@
 
+[Insomnia]
+	#Enable/Disable insomnia (phantoms) adjustments.
+	insomniaEnabled = true
+
+["Block Explodes"]
+	#Enable/Disable block explodes adjustments.
+	blockExplodesEnabled = true
+
 #Adaptive Performance Tweaks: Gamerules
 [General]
 	#The time after a high to low load change is considered as valid. High loads are always considered immediately.
@@ -25,10 +33,6 @@
 	#Range: 1 ~ 256
 	randomTickSpeed = 3
 
-["Block Explodes"]
-	#Enable/Disable block explodes adjustments.
-	blockExplodesEnabled = true
-
 ["Elytra Movement Check"]
 	#Enable/Disable dynamic elytra movement check adjustments.
 	elytraMovementCheckEnabled = true
@@ -36,10 +40,6 @@
 [Raids]
 	#Enable/Disable dynamic raids adjustments.
 	raidsEnabled = true
-
-[Insomnia]
-	#Enable/Disable insomnia (phantoms) adjustments.
-	insomniaEnabled = true
 
 ["Mob Explodes"]
 	#Enable/Disable mob explodes adjustments.
