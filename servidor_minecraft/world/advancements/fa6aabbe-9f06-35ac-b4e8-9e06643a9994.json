@@ -4388,77 +4388,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "terramity:first_step_advancement": {
     "criteria": {
-      "log_spam_fixer": "2025-07-19 19:51:34 +0000"
+      "first_step_advancement_0": "2025-07-19 19:28:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
-      "log_spam_fixer": "2025-07-19 19:51:34 +0000"
+      "has_sentry_armor_trim_smithing_template": "2025-07-19 19:28:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "log_spam_fixer": "2025-07-19 19:51:34 +0000"
+      "has_smithing_trim_template": "2025-07-19 19:28:28 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-19 19:51:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-19 19:51:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-19 19:51:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-19 19:51:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-19 19:51:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-19 19:51:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-19 19:51:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-19 19:51:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-19 19:51:34 +0000"
-    },
-    "done": false
+    "done": true
   },
   "chromaticarsenal:recipes/combat/harpy_feather": {
     "criteria": {
@@ -4469,18 +4415,6 @@
   "chromaticarsenal:recipes/combat/super_glass_shield": {
     "criteria": {
       "has_chroma_shard": "2025-07-19 19:31:08 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:blaze": {
-    "criteria": {
-      "crafting_table": "2025-07-19 19:36:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-07-19 19:28:28 +0000"
     },
     "done": true
   },
@@ -4526,12 +4460,6 @@
     },
     "done": true
   },
-  "terramity:first_step_advancement": {
-    "criteria": {
-      "first_step_advancement_0": "2025-07-19 19:28:15 +0000"
-    },
-    "done": true
-  },
   "chromaticarsenal:recipes/combat/ward_crystal": {
     "criteria": {
       "has_chroma_shard": "2025-07-19 19:31:08 +0000"
@@ -4541,18 +4469,6 @@
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-07-19 19:31:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-07-19 19:48:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-19 19:40:00 +0000"
     },
     "done": true
   },
@@ -4574,21 +4490,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-07-19 19:40:00 +0000"
-    },
-    "done": true
-  },
   "chromaticarsenal:recipes/combat/advancing_heart": {
     "criteria": {
       "has_chroma_shard": "2025-07-19 19:31:08 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak": {
-    "criteria": {
-      "has_wood": "2025-07-19 19:40:00 +0000"
     },
     "done": true
   },
@@ -4598,21 +4502,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-19 19:40:00 +0000"
-    },
-    "done": true
-  },
   "chromaticarsenal:recipes/combat/friendly_fire_flower": {
     "criteria": {
       "has_chroma_shard": "2025-07-19 19:31:08 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/oak_leaves": {
-    "criteria": {
-      "has_copper_block": "2025-07-19 19:40:38 +0000"
     },
     "done": true
   },
@@ -4634,21 +4526,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-19 19:40:00 +0000"
-    },
-    "done": true
-  },
   "chromaticarsenal:recipes/combat/vertical_stasis_stone": {
     "criteria": {
       "has_chroma_shard": "2025-07-19 19:31:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-19 19:28:28 +0000"
     },
     "done": true
   },
@@ -4685,6 +4565,54 @@
   "chromaticarsenal:recipes/combat/gravity_stone": {
     "criteria": {
       "has_chroma_shard": "2025-07-19 19:31:08 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:blaze": {
+    "criteria": {
+      "crafting_table": "2025-07-19 19:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-19 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/oak_leaves": {
+    "criteria": {
+      "has_copper_block": "2025-07-19 19:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-19 19:48:50 +0000"
     },
     "done": true
   },
