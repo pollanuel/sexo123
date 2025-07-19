@@ -4842,3 +4842,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Jul2025 22:30:29.204] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.36842346191406) to VERY_HIGH (avg. 86.8246078491211)
 [19Jul2025 22:30:30.435] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 44.84163251) to HIGH (avg. 46.07673661)
 [19Jul2025 22:30:36.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 86.8246078491211) to NORMAL (avg. 42.533260345458984)
+[19Jul2025 22:31:06.509] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.7462043762207) to MEDIUM (avg. 48.094276428222656)
+[19Jul2025 22:31:21.386] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.094276428222656) to LOW (avg. 31.187759399414062)
+[19Jul2025 22:33:44.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Imbued]
+[19Jul2025 22:39:40.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Amateur Archaeologist]
+[19Jul2025 22:41:09.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> meneses
+[19Jul2025 22:41:12.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> tiene lapiz?
