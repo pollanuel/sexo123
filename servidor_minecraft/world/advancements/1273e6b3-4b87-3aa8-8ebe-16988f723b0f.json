@@ -4114,6 +4114,12 @@
     },
     "done": true
   },
+  "inventorypets:pig": {
+    "criteria": {
+      "crafting_table": "2025-07-20 06:09:57 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-07-20 06:12:28 +0000"
@@ -4185,12 +4191,6 @@
       "log_spam_fixer": "2025-07-20 06:12:28 +0000"
     },
     "done": false
-  },
-  "inventorypets:pig": {
-    "criteria": {
-      "crafting_table": "2025-07-20 06:09:57 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
