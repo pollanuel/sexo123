@@ -7348,12 +7348,6 @@
     },
     "done": true
   },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2025-07-20 04:06:58 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2025-07-20 04:08:15 +0000"
@@ -8953,15 +8947,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-07-20 16:39:47 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2025-07-20 16:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-07-20 17:38:57 +0000"
     },
     "done": true
   },
@@ -8977,6 +8995,12 @@
     },
     "done": true
   },
+  "inventorypets:spider": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:33:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_cut_red_sandstone": "2025-07-20 17:18:50 +0000"
@@ -8989,9 +9013,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-20 17:44:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-07-20 16:39:47 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:20": {
+    "criteria": {
+      "example": "2025-07-20 17:39:43 +0000"
     },
     "done": true
   },
@@ -9010,6 +9046,24 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-07-20 17:18:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
     },
     "done": true
   },
@@ -9037,6 +9091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
     "criteria": {
       "has_cut_red_sandstone": "2025-07-20 17:18:50 +0000"
@@ -9055,6 +9115,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_leggings": {
     "criteria": {
       "has_item": "2025-07-20 16:50:34 +0000"
@@ -9067,6 +9133,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-07-20 17:18:24 +0000"
@@ -9076,6 +9154,24 @@
   "immersive_weathering:recipes/deepslate_tiles": {
     "criteria": {
       "has_copper_block": "2025-07-20 16:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
     },
     "done": true
   },
@@ -9121,6 +9217,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-20 17:18:20 +0000"
@@ -9133,6 +9253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2025-07-20 16:39:47 +0000"
@@ -9142,6 +9268,24 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_cut_red_sandstone": "2025-07-20 17:18:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
     },
     "done": true
   },
@@ -9169,6 +9313,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-07-20 17:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-07-20 16:39:47 +0000"
@@ -9181,9 +9331,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/limestone": {
     "criteria": {
       "limestone": "2025-07-20 17:18:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-07-20 17:38:57 +0000"
     },
     "done": true
   },
@@ -9205,6 +9385,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-07-20 17:38:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-07-20 16:50:36 +0000"
@@ -9214,6 +9406,12 @@
   "inventorypets:chest": {
     "criteria": {
       "crafting_table": "2025-07-20 17:15:26 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:enderman": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:39:43 +0000"
     },
     "done": true
   },

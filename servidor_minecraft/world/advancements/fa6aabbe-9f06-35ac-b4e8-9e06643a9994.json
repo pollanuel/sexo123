@@ -1747,6 +1747,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-07-20 17:44:54 +0000",
       "minecraft:taiga": "2025-07-19 19:08:08 +0000",
       "minecraft:cherry_grove": "2025-07-19 19:21:01 +0000",
       "minecraft:birch_forest": "2025-07-19 19:36:43 +0000",
@@ -1754,6 +1755,7 @@
       "minecraft:beach": "2025-07-19 18:21:20 +0000",
       "minecraft:river": "2025-07-19 00:45:19 +0000",
       "minecraft:swamp": "2025-07-19 18:57:03 +0000",
+      "minecraft:grove": "2025-07-20 17:45:34 +0000",
       "minecraft:cold_ocean": "2025-07-19 23:26:39 +0000",
       "minecraft:forest": "2025-07-19 00:51:58 +0000",
       "minecraft:ocean": "2025-07-19 19:37:40 +0000",
@@ -5195,6 +5197,18 @@
     },
     "done": true
   },
+  "inventorypets:pixie": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:36:44 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:spider": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:33:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:25:52 +0000"
@@ -5219,6 +5233,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-07-20 17:30:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:25:52 +0000"
@@ -5237,6 +5257,12 @@
     },
     "done": true
   },
+  "inventorypets:saddle": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:35:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2025-07-20 17:20:05 +0000"
@@ -5246,6 +5272,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-07-20 17:30:27 +0000"
     },
     "done": true
   },
@@ -5270,6 +5302,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:snowgolem": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:37:07 +0000"
     },
     "done": true
   },

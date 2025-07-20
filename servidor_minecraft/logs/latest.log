@@ -2490,3 +2490,257 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [20Jul2025 17:30:21.141] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [20Jul2025 17:30:21.141] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [20Jul2025 17:30:28.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5280ms or 105 ticks behind
+[20Jul2025 17:30:43.239] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:43.306] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:43.307] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:43.307] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:43.308] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:43.308] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:43.309] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:43.309] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:43.309] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:43.310] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:43.310] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:47.192] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.201] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.841] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.841] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.842] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.842] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.842] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.843] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.843] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.843] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.843] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.844] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.844] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.844] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.844] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.845] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.845] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.845] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.845] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.846] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.846] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:51.974] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:30:52.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8282ms or 165 ticks behind
+[20Jul2025 17:30:57.791] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[20Jul2025 17:30:57.791] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[20Jul2025 17:30:57.791] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[20Jul2025 17:30:57.791] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[20Jul2025 17:30:59.238] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=278, y=-42, z=-77}
+[20Jul2025 17:30:59.255] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[20Jul2025 17:31:01.923] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[20Jul2025 17:31:01.923] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[20Jul2025 17:31:12.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5282ms or 105 ticks behind
+[20Jul2025 17:31:32.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4716ms or 94 ticks behind
+[20Jul2025 17:31:35.825] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:44.336] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:44.336] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:44.336] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:44.350] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:44.351] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:46.071] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:46.072] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:46.072] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:46.072] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:46.073] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:46.073] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:46.073] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:46.073] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:46.073] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:49.386] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:31:51.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4087ms or 81 ticks behind
+[20Jul2025 17:32:10.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4431ms or 88 ticks behind
+[20Jul2025 17:32:11.484] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:11.484] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:11.485] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:11.485] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:12.023] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:12.023] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:12.023] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:12.024] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:12.024] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:15.389] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:15.390] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:15.390] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:15.631] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:15.632] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:15.632] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:15.632] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:19.741] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:19.742] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:19.742] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:19.811] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:25.319] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:25.320] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:28.054] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:28.054] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:28.826] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:28.827] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:28.827] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:28.827] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:28.827] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:28.857] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:28.858] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:32:31.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5813ms or 116 ticks behind
+[20Jul2025 17:32:34.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> val
+[20Jul2025 17:32:39.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> cuidado hay
+[20Jul2025 17:32:48.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> estan las hadas que roban
+[20Jul2025 17:32:49.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2881ms or 57 ticks behind
+[20Jul2025 17:33:10.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6008ms or 120 ticks behind
+[20Jul2025 17:33:11.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Aragog Lives]
+[20Jul2025 17:33:29.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4711ms or 94 ticks behind
+[20Jul2025 17:33:36.929] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:33:36.929] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:33:36.929] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:33:36.930] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:33:42.146] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:33:42.147] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:33:42.147] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:33:42.147] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:33:42.147] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:33:49.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4824ms or 96 ticks behind
+[20Jul2025 17:33:50.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved too quickly! 18.244041844277035,0.0,-18.5659610727827
+[20Jul2025 17:33:58.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Aragog Lives]
+[20Jul2025 17:34:09.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4480ms or 89 ticks behind
+[20Jul2025 17:34:15.872] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:15.872] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:15.873] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:15.873] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:27.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3782ms or 75 ticks behind
+[20Jul2025 17:34:41.922] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:41.922] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:41.932] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:41.932] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:45.302] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:45.302] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:45.302] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:45.303] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:45.303] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:46.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3701ms or 74 ticks behind
+[20Jul2025 17:34:54.761] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:54.761] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:54.762] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:54.762] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:54.762] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:54.770] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:34:54.771] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:35:05.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4095ms or 81 ticks behind
+[20Jul2025 17:35:24.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3902ms or 78 ticks behind
+[20Jul2025 17:35:35.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved too quickly! 18.84197257229289,0.0,18.81412593155156
+[20Jul2025 17:35:42.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3462ms or 69 ticks behind
+[20Jul2025 17:35:45.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Ride On]
+[20Jul2025 17:36:01.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3320ms or 66 ticks behind
+[20Jul2025 17:36:19.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3243ms or 64 ticks behind
+[20Jul2025 17:36:38.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3884ms or 77 ticks behind
+[20Jul2025 17:36:44.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [No Dust on You]
+[20Jul2025 17:36:47.015] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:36:47.015] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:36:47.015] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:36:47.015] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:36:51.619] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:36:51.625] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:36:51.625] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:36:51.625] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:36:51.626] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:36:58.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4788ms or 95 ticks behind
+[20Jul2025 17:37:07.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Pumpkinhead!]
+[20Jul2025 17:37:16.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3594ms or 71 ticks behind
+[20Jul2025 17:37:25.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [A Fool's Folly]
+[20Jul2025 17:37:28.010] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:37:28.010] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:37:28.010] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:37:28.011] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:37:35.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3648ms or 72 ticks behind
+[20Jul2025 17:37:39.034] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-796, y=-9, z=-624}
+[20Jul2025 17:37:47.684] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[20Jul2025 17:37:47.685] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[20Jul2025 17:37:53.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3667ms or 73 ticks behind
+[20Jul2025 17:37:54.870] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:37:54.871] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:37:54.871] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:37:54.871] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:37:57.611] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:37:57.883] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[20Jul2025 17:37:57.883] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[20Jul2025 17:37:57.883] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[20Jul2025 17:37:57.884] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[20Jul2025 17:38:02.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI was kicked for floating too long!
+[20Jul2025 17:38:02.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI lost connection: Disconnected
+[20Jul2025 17:38:02.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: REDORSIDI left the game
+[20Jul2025 17:38:02.360] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Jul2025 17:38:06.858] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 64.7425537109375) to LOW (avg. 38.69541931152344)
+[20Jul2025 17:38:08.202] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[20Jul2025 17:38:08.936] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:38:08.937] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:38:08.937] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:38:08.937] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:38:17.643] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:38:17.643] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:38:17.644] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:38:17.644] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:38:17.644] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 17:38:21.399] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.69541931152344) to HIGH (avg. 49.196800231933594)
+[20Jul2025 17:38:28.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.196800231933594) to MEDIUM (avg. 46.250938415527344)
+[20Jul2025 17:38:36.129] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[20Jul2025 17:38:41.873] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@65de6cb3[id=<null>,name=REDORSIDI,properties={},legacy=false] (/100.122.100.42:53210): Took too long to log in
+[20Jul2025 17:38:41.874] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65de6cb3[id=<null>,name=REDORSIDI,properties={},legacy=false] (/100.122.100.42:53210) lost connection: Took too long to log in
+[20Jul2025 17:38:41.932] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Jul2025 17:38:51.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: REDORSIDI[/100.122.100.42:53211] logged in with entity id 1536597 at (-1079.7055109026903, 109.99877657763325, 166.06947763237196)
+[20Jul2025 17:38:51.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: REDORSIDI joined the game
+[20Jul2025 17:38:51.893] [Server thread/INFO] [APTweaks(Player)/]: Player REDORSIDI ServerPlayer['REDORSIDI'/1536597, l='ServerLevel[world]', x=-1079.71, y=110.00, z=166.07] logged in and will be protected for 90 secs.
+[20Jul2025 17:38:58.874] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.276893615722656) to HIGH (avg. 49.082275390625)
+[20Jul2025 17:39:05.906] [Server thread/INFO] [APTweaks(Player)/]: Protected Player REDORSIDI was successful validated after 14 secs.
+[20Jul2025 17:39:05.906] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player REDORSIDI!
+[20Jul2025 17:39:14.980] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.997154235839844) to VERY_HIGH (avg. 61.767974853515625)
+[20Jul2025 17:39:23.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20Jul2025 17:39:23.407] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 61.767974853515625) to HIGH (avg. 53.7387809753418)
+[20Jul2025 17:39:28.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon moved too quickly! -1567.7791038393661,-9.0,2246.300000011921
+[20Jul2025 17:39:38.453] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.7387809753418) to NORMAL (avg. 45.12253952026367)
+[20Jul2025 17:39:43.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Pet Collector]
+[20Jul2025 17:39:43.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Vwoop!]
+[20Jul2025 17:39:53.393] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.12253952026367) to HIGH (avg. 50.64530563354492)
+[20Jul2025 17:40:08.389] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.64530563354492) to MEDIUM (avg. 46.8261833190918)
+[20Jul2025 17:40:38.365] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.33708572387695) to NORMAL (avg. 42.878883361816406)
+[20Jul2025 17:40:53.384] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.878883361816406) to HIGH (avg. 50.20383834838867)
+[20Jul2025 17:41:00.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: REDORSIDI has made the advancement [Cover Me with Diamonds]
+[20Jul2025 17:41:15.865] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.15769577026367) to NORMAL (avg. 45.577877044677734)
+[20Jul2025 17:41:31.093] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.577877044677734) to MEDIUM (avg. 46.008934020996094)
+[20Jul2025 17:41:45.865] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.008934020996094) to NORMAL (avg. 43.790645599365234)
+[20Jul2025 17:41:53.365] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.790645599365234) to MEDIUM (avg. 46.37865447998047)
+[20Jul2025 17:42:08.455] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.37865447998047) to NORMAL (avg. 45.96977615356445)
+[20Jul2025 17:42:23.382] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.96977615356445) to MEDIUM (avg. 47.805870056152344)
+[20Jul2025 17:42:53.365] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.70551300048828) to NORMAL (avg. 42.53551483154297)
+[20Jul2025 17:43:55.857] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[20Jul2025 17:43:55.858] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[20Jul2025 17:44:08.400] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.30050277709961) to HIGH (avg. 50.52958297729492)
+[20Jul2025 17:44:19.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: REDORSIDI has made the advancement [Tools of the Trade]
+[20Jul2025 17:44:23.371] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.52958297729492) to MEDIUM (avg. 47.92449951171875)
+[20Jul2025 17:44:33.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved too quickly! -1.7216394065121676,-10.707969743668656,0.026494667375914105
+[20Jul2025 17:44:39.292] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.92449951171875) to HIGH (avg. 53.75945281982422)
+[20Jul2025 17:44:51.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Voluntary Exile]
+[20Jul2025 17:44:54.721] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.75945281982422) to MEDIUM (avg. 47.488975524902344)
+[20Jul2025 17:45:08.995] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.488975524902344) to NORMAL (avg. 43.943603515625)
+[20Jul2025 17:45:16.069] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.943603515625) to MEDIUM (avg. 47.924503326416016)
+[20Jul2025 17:45:23.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.924503326416016) to HIGH (avg. 49.34852981567383)
+[20Jul2025 17:45:38.365] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.34852981567383) to NORMAL (avg. 45.69683074951172)
+[20Jul2025 17:45:53.365] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.69683074951172) to MEDIUM (avg. 46.98235321044922)
+[20Jul2025 17:46:05.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon moved too quickly! -2229.3556573055234,4.0,362.246764243331
+[20Jul2025 17:46:24.464] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.531227111816406) to HIGH (avg. 51.7796745300293)
+[20Jul2025 17:46:39.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20Jul2025 17:46:59.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20Jul2025 17:47:21.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Jul2025 17:47:21.999] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.12104034423828) to VERY_HIGH (avg. 63.193321228027344)
+[20Jul2025 17:47:38.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[20Jul2025 17:47:56.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2772ms or 55 ticks behind
+[20Jul2025 17:48:14.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3492ms or 69 ticks behind
+[20Jul2025 17:48:33.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3558ms or 71 ticks behind
+[20Jul2025 17:48:51.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3688ms or 73 ticks behind
+[20Jul2025 17:49:10.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3971ms or 79 ticks behind
+[20Jul2025 17:49:30.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4354ms or 87 ticks behind
+[20Jul2025 17:49:49.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4349ms or 86 ticks behind
+[20Jul2025 17:50:08.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4171ms or 83 ticks behind
+[20Jul2025 17:50:27.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3605ms or 72 ticks behind
+[20Jul2025 17:50:45.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3610ms or 72 ticks behind
+[20Jul2025 17:51:02.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
