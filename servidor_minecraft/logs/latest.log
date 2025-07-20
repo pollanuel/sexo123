@@ -3581,3 +3581,154 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [20Jul2025 19:06:41.832] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.20773696899414) to MEDIUM (avg. 46.540916442871094)
 [20Jul2025 19:06:56.815] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.540916442871094) to LOW (avg. 28.192420959472656)
 [20Jul2025 19:07:38.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel was electrocuted
+[20Jul2025 19:15:05.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MilerinotFound[/100.123.100.53:52214] logged in with entity id 3583675 at (-1972.5349725579945, 65.0, -1053.1860738108187)
+[20Jul2025 19:15:05.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound joined the game
+[20Jul2025 19:15:05.720] [Server thread/INFO] [APTweaks(Player)/]: Player MilerinotFound ServerPlayer['MilerinotFound'/3583675, l='ServerLevel[world]', x=-1972.53, y=65.00, z=-1053.19] logged in and will be protected for 90 secs.
+[20Jul2025 19:15:11.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3500ms or 70 ticks behind
+[20Jul2025 19:15:15.334] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 26.439836502075195) to HIGH (avg. 50.47176742553711)
+[20Jul2025 19:15:21.850] [Server thread/INFO] [APTweaks(Player)/]: Protected Player MilerinotFound was successful validated after 16 secs.
+[20Jul2025 19:15:21.850] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player MilerinotFound!
+[20Jul2025 19:15:22.815] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.47176742553711) to NORMAL (avg. 45.06875991821289)
+[20Jul2025 19:15:34.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MilerinotFound lost connection: Disconnected
+[20Jul2025 19:15:34.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound left the game
+[20Jul2025 19:15:37.815] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.06875991821289) to LOW (avg. 26.444734573364258)
+[20Jul2025 19:15:50.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MilerinotFound[/100.123.100.53:52236] logged in with entity id 3593635 at (-1971.0573669974337, 63.0, -1051.699999988079)
+[20Jul2025 19:15:50.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound joined the game
+[20Jul2025 19:15:50.519] [Server thread/INFO] [APTweaks(Player)/]: Player MilerinotFound ServerPlayer['MilerinotFound'/3593635, l='ServerLevel[world]', x=-1971.06, y=63.00, z=-1051.70] logged in and will be protected for 90 secs.
+[20Jul2025 19:15:52.815] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 26.444734573364258) to MEDIUM (avg. 46.00450134277344)
+[20Jul2025 19:15:57.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3567ms or 71 ticks behind
+[20Jul2025 19:16:04.315] [Server thread/INFO] [APTweaks(Player)/]: Protected Player MilerinotFound was successful validated after 13 secs.
+[20Jul2025 19:16:04.315] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player MilerinotFound!
+[20Jul2025 19:16:18.893] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.40642166137695) to HIGH (avg. 50.92226028442383)
+[20Jul2025 19:16:33.865] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.92226028442383) to NORMAL (avg. 43.93950653076172)
+[20Jul2025 19:16:48.865] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.93950653076172) to MEDIUM (avg. 46.52823257446289)
+[20Jul2025 19:17:08.820] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Jul2025 19:17:11.871] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20Jul2025 19:17:11.872] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[20Jul2025 19:17:11.979] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.858028411865234) to VERY_HIGH (avg. 58.36708068847656)
+[20Jul2025 19:17:12.234] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20Jul2025 19:17:12.234] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[20Jul2025 19:17:12.235] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20Jul2025 19:17:12.284] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20Jul2025 19:17:12.285] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[20Jul2025 19:17:12.848] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:12.849] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:12.849] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:12.858] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:12.858] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:12.859] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:13.221] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:13.221] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:13.222] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:13.229] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:13.229] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:14.146] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:14.146] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:14.146] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:14.147] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:14.157] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:14.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -4.2276868499202465,0.0,-9.141198097150436
+[20Jul2025 19:17:14.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -4.487560077871876,0.0,-9.939907954569662
+[20Jul2025 19:17:14.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -4.7375917543672585,0.0,-10.742177933653693
+[20Jul2025 19:17:14.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -4.978943182477451,0.0,-11.547587940046014
+[20Jul2025 19:17:14.777] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:17.835] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20Jul2025 19:17:17.835] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[20Jul2025 19:17:19.881] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20Jul2025 19:17:19.881] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[20Jul2025 19:17:20.232] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.36708068847656) to MEDIUM (avg. 48.6555061340332)
+[20Jul2025 19:17:24.827] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20Jul2025 19:17:24.827] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[20Jul2025 19:17:25.691] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:25.691] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:25.691] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:25.692] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:25.692] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:25.692] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:25.692] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:25.693] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:25.693] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:26.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[20Jul2025 19:17:27.646] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:17:31.777] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Jul2025 19:17:31.777] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Jul2025 19:17:43.934] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.167823791503906) to HIGH (avg. 52.70441818237305)
+[20Jul2025 19:17:52.280] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.70441818237305) to VERY_HIGH (avg. 68.22794342041016)
+[20Jul2025 19:17:58.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Jul2025 19:18:09.295] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 68.22794342041016) to HIGH (avg. 50.93962097167969)
+[20Jul2025 19:18:15.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20Jul2025 19:18:19.679] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:18:19.680] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:18:19.680] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:18:19.680] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:18:19.680] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 19:18:39.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.42017487447765234
+[20Jul2025 19:18:39.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 1.1041448199839579
+[20Jul2025 19:18:39.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.4160125676999087
+[20Jul2025 19:18:39.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 1.0958244826456394
+[20Jul2025 19:18:39.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.4107055383806255
+[20Jul2025 19:18:39.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.40696117356310424
+[20Jul2025 19:18:39.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.3994378808579313
+[20Jul2025 19:18:39.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.38712811760615295
+[20Jul2025 19:18:39.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.3740810433982915
+[20Jul2025 19:18:39.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.3625735239465939
+[20Jul2025 19:18:39.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.3518180007308729
+[20Jul2025 19:18:39.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.33925178077470264
+[20Jul2025 19:18:39.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.3239131562804687
+[20Jul2025 19:18:39.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.3097318637715034
+[20Jul2025 19:18:39.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.2972239637788334
+[20Jul2025 19:18:39.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.7058483633002197
+[20Jul2025 19:18:40.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20Jul2025 19:18:42.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.041664123535156) to VERY_HIGH (avg. 59.33673095703125)
+[20Jul2025 19:18:57.121] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.33673095703125) to NORMAL (avg. 45.248931884765625)
+[20Jul2025 19:18:58.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.5470461775039439
+[20Jul2025 19:18:58.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 1.178822506353299
+[20Jul2025 19:18:58.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 1.8234241050395212
+[20Jul2025 19:18:58.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.5597213152946097
+[20Jul2025 19:18:58.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.5517983611202908
+[20Jul2025 19:18:58.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.5490058392338142
+[20Jul2025 19:18:58.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.5474602081062585
+[20Jul2025 19:18:58.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.5460969614514397
+[20Jul2025 19:18:58.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.5666965008772422
+[20Jul2025 19:18:58.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.5848652946510811
+[20Jul2025 19:18:58.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.6008901707591576
+[20Jul2025 19:18:58.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.6150241114869459
+[20Jul2025 19:18:58.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.6274902472086978
+[20Jul2025 19:18:58.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.6166834559398922
+[20Jul2025 19:18:58.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.6071518660405673
+[20Jul2025 19:18:58.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.598925686167604
+[20Jul2025 19:18:58.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.5883105802417958
+[20Jul2025 19:18:58.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.5542276775981918
+[20Jul2025 19:18:58.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.4366274796370817
+[20Jul2025 19:18:59.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.3295433913190209
+[20Jul2025 19:19:12.065] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.248931884765625) to MEDIUM (avg. 47.59857940673828)
+[20Jul2025 19:19:41.984] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.65020751953125) to NORMAL (avg. 45.85055923461914)
+[20Jul2025 19:19:49.384] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.85055923461914) to HIGH (avg. 49.484046936035156)
+[20Jul2025 19:19:56.958] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.484046936035156) to MEDIUM (avg. 48.397098541259766)
+[20Jul2025 19:20:11.865] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.397098541259766) to NORMAL (avg. 44.021873474121094)
+[20Jul2025 19:20:31.740] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2553568, l='ServerLevel[world]', x=-1341.46, y=-18.49, z=-1314.95, removed=DISCARDED]
+[20Jul2025 19:20:31.888] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2553567, l='ServerLevel[world]', x=-1339.63, y=-18.75, z=-1315.42, removed=DISCARDED]
+[20Jul2025 19:20:34.392] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.38086700439453) to MEDIUM (avg. 48.1405029296875)
+[20Jul2025 19:21:26.900] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.261539459228516) to HIGH (avg. 50.60961151123047)
+[20Jul2025 19:21:41.865] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.60961151123047) to NORMAL (avg. 45.03285217285156)
+[20Jul2025 19:21:56.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panela_limon[/100.116.85.85:52294] logged in with entity id 3715065 at (1134.0147779516365, 73.0625, -216.79985479391476)
+[20Jul2025 19:21:56.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon joined the game
+[20Jul2025 19:21:56.701] [Server thread/INFO] [APTweaks(Player)/]: Player panela_limon ServerPlayer['panela_limon'/3715065, l='ServerLevel[world]', x=1134.01, y=73.06, z=-216.80] logged in and will be protected for 90 secs.
+[20Jul2025 19:21:57.668] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.03285217285156) to VERY_HIGH (avg. 112.2614517211914)
+[20Jul2025 19:22:08.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20Jul2025 19:22:09.270] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/3721968, l='ServerLevel[world]', x=1126.50, y=-24.00, z=-220.50]
+[20Jul2025 19:22:21.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> JUNADA
+[20Jul2025 19:22:25.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> NO SABES LO QUE ME SALLIO
+[20Jul2025 19:22:27.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4045ms or 80 ticks behind
+[20Jul2025 19:22:46.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4657ms or 93 ticks behind
+[20Jul2025 19:23:05.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4247ms or 84 ticks behind
+[20Jul2025 19:23:25.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4357ms or 87 ticks behind
+[20Jul2025 19:23:28.347] [Server thread/WARN] [APTweaks(Player)/]: User validation for panela_limon timed out after 90 secs.
+[20Jul2025 19:23:28.348] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player panela_limon!
+[20Jul2025 19:23:41.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> JUNADA
+[20Jul2025 19:23:42.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved too quickly! 10.163720669966324,-5.926372203962728,-7.910798227810346
+[20Jul2025 19:23:42.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> NO SABES LO QUE ME SALLIO
+[20Jul2025 19:23:44.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4637ms or 92 ticks behind
+[20Jul2025 19:23:52.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved too quickly! 7.523397351872518,-5.756204221974784,19.10877376415715
+[20Jul2025 19:24:03.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved too quickly! -21.431436813641994,0.8913585247947111,-13.364140755491917
+[20Jul2025 19:24:05.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5224ms or 104 ticks behind
