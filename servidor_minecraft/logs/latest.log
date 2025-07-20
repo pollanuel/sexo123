@@ -3463,3 +3463,121 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [20Jul2025 18:53:20.948] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.58396911621094) to HIGH (avg. 53.173255920410156)
 [20Jul2025 18:53:22.018] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [20Jul2025 18:53:22.018] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[20Jul2025 18:53:29.377] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.173255920410156) to VERY_HIGH (avg. 75.0783920288086)
+[20Jul2025 18:53:32.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20Jul2025 18:53:38.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Tie me to the Mast]
+[20Jul2025 18:53:39.509] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 75.0783920288086) to MEDIUM (avg. 48.92583084106445)
+[20Jul2025 18:53:49.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[20Jul2025 18:53:54.946] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.92583084106445) to HIGH (avg. 49.02552795410156)
+[20Jul2025 18:54:02.912] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Bernard the Non-Suspicious'/3352566, l='ServerLevel[world]', x=-1951.68, y=55.60, z=-1226.71] died: Bernard the Non-Suspicious was slain by MilerinotFound
+[20Jul2025 18:54:04.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has completed the challenge [He Wasn't So Strong]
+[20Jul2025 18:54:04.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Epic!]
+[20Jul2025 18:54:09.815] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.02552795410156) to NORMAL (avg. 45.34323501586914)
+[20Jul2025 18:54:10.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved wrongly!
+[20Jul2025 18:54:36.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved too quickly! -0.09310054542129365,16.700000025331974,-0.4238246061729569
+[20Jul2025 18:54:36.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved too quickly! -0.09310054542129365,16.700000025331974,-0.4238246061729569
+[20Jul2025 18:54:36.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved too quickly! -0.09310054542129365,16.700000025331974,-0.4238246061729569
+[20Jul2025 18:54:36.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved too quickly! -0.09310054542129365,16.700000025331974,-0.4238246061729569
+[20Jul2025 18:54:36.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved too quickly! -0.09310054542129365,16.700000025331974,-0.4238246061729569
+[20Jul2025 18:54:37.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved too quickly! -0.09310054542129365,16.700000025331974,-0.4238246061729569
+[20Jul2025 18:54:37.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved too quickly! -0.09310054542129365,16.700000025331974,-0.4238246061729569
+[20Jul2025 18:54:37.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved too quickly! -0.09310054542129365,16.700000025331974,-0.4238246061729569
+[20Jul2025 18:54:39.815] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.41986846923828) to LOW (avg. 22.587669372558594)
+[20Jul2025 18:54:40.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has reached the goal [Blot Out The Sun]
+[20Jul2025 18:55:33.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.8167496100301891
+[20Jul2025 18:55:34.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.8213999134374208
+[20Jul2025 18:55:35.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.8230154168557755
+[20Jul2025 18:55:54.816] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.44234085083008) to NORMAL (avg. 43.04651641845703)
+[20Jul2025 18:55:56.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.8296057311780956
+[20Jul2025 18:55:56.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.830074476201971
+[20Jul2025 18:56:01.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.811392629615914
+[20Jul2025 18:56:01.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.811392629615914
+[20Jul2025 18:56:01.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.811392629615914
+[20Jul2025 18:56:01.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.811392629615914
+[20Jul2025 18:56:01.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.811392629615914
+[20Jul2025 18:56:01.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.811392629615914
+[20Jul2025 18:56:01.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -10.519682875246644,0.6929668083051652,-0.0612736528255482
+[20Jul2025 18:56:01.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -11.247511122577407,0.8511967195607397,-0.07422314809264208
+[20Jul2025 18:56:01.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -11.900114814486415,0.926328727792864,-0.08587634813375189
+[20Jul2025 18:56:01.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -12.48563295174813,0.9216535084080064,-0.09638297828405484
+[20Jul2025 18:56:01.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -13.01132239949311,0.8403314261280386,-0.10591306322385208
+[20Jul2025 18:56:01.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -13.483656193720662,0.6853976952909235,-0.11458138769944526
+[20Jul2025 18:56:01.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -13.908407414770181,0.4597673358035692,-0.12248119417085945
+[20Jul2025 18:56:01.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -14.385087539694723,0.16623993283906913,-0.1342316438888247
+[20Jul2025 18:56:01.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -14.903406384953996,-0.09265123657561958,-0.14930094264400395
+[20Jul2025 18:56:01.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! -15.458450581548504,-0.32099324799937534,-0.16729746624992003
+[20Jul2025 18:56:01.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! 12.353132131532448,0.9948804661677926,0.2513050454979293
+[20Jul2025 18:56:01.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! 12.353132131532448,0.9948804661677926,0.2513050454979293
+[20Jul2025 18:56:01.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! 12.353132131532448,0.9948804661677926,0.2513050454979293
+[20Jul2025 18:56:01.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! 12.353132131532448,0.9948804661677926,0.2513050454979293
+[20Jul2025 18:56:01.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! 12.353132131532448,0.9948804661677926,0.2513050454979293
+[20Jul2025 18:56:01.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! 12.353132131532448,0.9948804661677926,0.2513050454979293
+[20Jul2025 18:56:01.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! 12.353132131532448,0.9948804661677926,0.2513050454979293
+[20Jul2025 18:56:01.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! 12.353132131532448,0.9948804661677926,0.2513050454979293
+[20Jul2025 18:56:01.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! 12.353132131532448,0.9948804661677926,0.2513050454979293
+[20Jul2025 18:56:01.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved too quickly! 12.353132131532448,0.9948804661677926,0.2513050454979293
+[20Jul2025 18:56:02.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.7005858672321014
+[20Jul2025 18:56:02.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.7940092476078556
+[20Jul2025 18:56:10.461] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Jul2025 18:56:12.497] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[20Jul2025 18:56:13.940] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20Jul2025 18:56:13.940] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[20Jul2025 18:56:14.216] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20Jul2025 18:56:14.216] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[20Jul2025 18:56:14.217] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20Jul2025 18:56:14.300] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20Jul2025 18:56:14.300] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[20Jul2025 18:56:18.020] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.60234451293945) to MEDIUM (avg. 46.808921813964844)
+[20Jul2025 18:56:23.203] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 18:56:23.203] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 18:56:23.203] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 18:56:23.203] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 18:56:23.204] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 18:56:24.275] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 18:56:24.275] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 18:56:24.276] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 18:56:24.276] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 18:56:33.532] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.808921813964844) to NORMAL (avg. 45.09458541870117)
+[20Jul2025 18:57:16.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.277984638195068
+[20Jul2025 18:57:17.407] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.65953826904297) to HIGH (avg. 52.57349395751953)
+[20Jul2025 18:57:35.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.2663382798493968
+[20Jul2025 18:57:46.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Full of Myself]
+[20Jul2025 18:57:52.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[20Jul2025 18:58:04.315] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.657371520996094) to NORMAL (avg. 43.78300094604492)
+[20Jul2025 18:58:05.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.5274953354119633
+[20Jul2025 18:58:06.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.7027620005285509
+[20Jul2025 18:58:06.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.3213951452394912
+[20Jul2025 18:58:06.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.3213951452394912
+[20Jul2025 18:58:06.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.3213951452394912
+[20Jul2025 18:58:06.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.3213951452394912
+[20Jul2025 18:58:06.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.9485073684326275
+[20Jul2025 18:58:13.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.398156560009775
+[20Jul2025 18:58:19.322] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.78300094604492) to MEDIUM (avg. 48.86444091796875)
+[20Jul2025 18:58:30.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MilerinotFound) moved wrongly! 0.2651486427266049
+[20Jul2025 18:58:34.315] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.86444091796875) to NORMAL (avg. 44.87184524536133)
+[20Jul2025 18:58:48.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has reached the goal [A Terrible Idea]
+[20Jul2025 18:59:11.839] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.596649169921875) to HIGH (avg. 51.663726806640625)
+[20Jul2025 18:59:19.315] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.663726806640625) to MEDIUM (avg. 46.12657165527344)
+[20Jul2025 18:59:34.315] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.12657165527344) to NORMAL (avg. 44.642425537109375)
+[20Jul2025 18:59:41.872] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.642425537109375) to HIGH (avg. 52.44536590576172)
+[20Jul2025 18:59:49.315] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.44536590576172) to MEDIUM (avg. 46.915748596191406)
+[20Jul2025 19:00:04.315] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.915748596191406) to NORMAL (avg. 43.28041076660156)
+[20Jul2025 19:00:11.818] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.28041076660156) to MEDIUM (avg. 47.343711853027344)
+[20Jul2025 19:00:13.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved wrongly!
+[20Jul2025 19:00:19.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MilerinotFound lost connection: Disconnected
+[20Jul2025 19:00:19.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound left the game
+[20Jul2025 19:00:19.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.343711853027344) to NORMAL (avg. 44.527565002441406)
+[20Jul2025 19:00:34.315] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.527565002441406) to LOW (avg. 26.205549240112305)
+[20Jul2025 19:02:11.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved too quickly! 14.032041971001036,0.0,-14.764482244240526
+[20Jul2025 19:02:29.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel was shot by Dungeon Sentry
+[20Jul2025 19:02:49.315] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.6034049987793) to NORMAL (avg. 40.51858901977539)
+[20Jul2025 19:02:56.815] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.51858901977539) to LOW (avg. 39.6159553527832)
+[20Jul2025 19:03:07.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: REDORSIDI moved too quickly! 17.164781729178912,0.19759999999999422,17.0
+[20Jul2025 19:03:49.331] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.682373046875) to NORMAL (avg. 44.76082992553711)
+[20Jul2025 19:04:04.331] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.76082992553711) to LOW (avg. 34.176692962646484)
+[20Jul2025 19:04:38.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [verganuel: Set Home at (1173, 80, -171)(8, 25)]
+[20Jul2025 19:05:56.815] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 22.19764518737793) to NORMAL (avg. 41.076900482177734)
+[20Jul2025 19:06:26.815] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.36261749267578) to LOW (avg. 38.20773696899414)
+[20Jul2025 19:06:41.832] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.20773696899414) to MEDIUM (avg. 46.540916442871094)
+[20Jul2025 19:06:56.815] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.540916442871094) to LOW (avg. 28.192420959472656)
+[20Jul2025 19:07:38.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel was electrocuted

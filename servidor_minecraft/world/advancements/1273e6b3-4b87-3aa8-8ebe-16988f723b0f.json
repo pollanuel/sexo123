@@ -2767,7 +2767,8 @@
       "baked_potato": "2025-07-20 04:25:43 +0000",
       "beef": "2025-07-20 06:08:39 +0000",
       "porkchop": "2025-07-20 17:00:07 +0000",
-      "bread": "2025-07-20 05:37:41 +0000"
+      "bread": "2025-07-20 05:37:41 +0000",
+      "cod": "2025-07-20 19:06:32 +0000"
     },
     "done": false
   },
@@ -4618,6 +4619,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 18:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-20 19:02:00 +0000"
     },
     "done": true
   },
