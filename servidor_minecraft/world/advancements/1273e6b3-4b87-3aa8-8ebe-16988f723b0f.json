@@ -1782,6 +1782,7 @@
       "minecraft:forest": "2025-07-20 04:05:33 +0000",
       "minecraft:jungle": "2025-07-20 18:01:37 +0000",
       "minecraft:ocean": "2025-07-20 18:05:05 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-20 18:36:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-20 17:31:38 +0000",
       "minecraft:meadow": "2025-07-20 04:04:46 +0000",
       "minecraft:plains": "2025-07-20 04:07:37 +0000"
@@ -2762,6 +2763,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-20 18:39:07 +0000",
       "baked_potato": "2025-07-20 04:25:43 +0000",
       "beef": "2025-07-20 06:08:39 +0000",
       "porkchop": "2025-07-20 17:00:07 +0000",
@@ -4075,9 +4077,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-20 17:43:32 +0000",
+      "minecraft:skeleton": "2025-07-20 18:35:38 +0000",
       "minecraft:ghast": "2025-07-20 05:57:11 +0000",
       "minecraft:hoglin": "2025-07-20 06:01:01 +0000",
       "minecraft:vindicator": "2025-07-20 17:47:30 +0000",
+      "minecraft:spider": "2025-07-20 18:35:24 +0000",
       "minecraft:creeper": "2025-07-20 17:14:45 +0000"
     },
     "done": false
@@ -4527,6 +4531,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-20 17:55:44 +0000"
@@ -4593,6 +4603,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-20 17:47:39 +0000"
@@ -4653,6 +4669,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-20 17:55:44 +0000"
@@ -4683,6 +4711,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 18:09:11 +0000"
@@ -4701,9 +4735,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-07-20 18:33:28 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/chandelier": {
     "criteria": {
       "has_string": "2025-07-20 17:47:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
     },
     "done": true
   },
@@ -4749,6 +4801,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-20 17:55:44 +0000"
@@ -4767,6 +4825,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-20 17:55:44 +0000"
@@ -4779,9 +4843,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-07-20 18:33:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-20 18:23:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
     },
     "done": true
   },
@@ -4851,6 +4927,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-07-20 17:47:39 +0000"
@@ -4917,15 +4999,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-20 18:35:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-20 18:23:47 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2025-07-20 18:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-07-20 18:23:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
     },
     "done": true
   },
@@ -4941,9 +5041,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-07-20 18:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:48:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
     },
     "done": true
   },
@@ -5061,6 +5173,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-07-20 18:04:22 +0000"
@@ -5100,6 +5218,18 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:48:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-07-20 18:33:29 +0000"
     },
     "done": true
   },

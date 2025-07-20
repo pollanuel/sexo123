@@ -3356,3 +3356,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [20Jul2025 18:32:18.840] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.73540115356445) to NORMAL (avg. 45.186439514160156)
 [20Jul2025 18:32:26.877] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.186439514160156) to HIGH (avg. 49.07575225830078)
 [20Jul2025 18:32:34.053] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.07575225830078) to MEDIUM (avg. 46.006534576416016)
+[20Jul2025 18:32:42.743] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.006534576416016) to HIGH (avg. 54.413482666015625)
+[20Jul2025 18:32:48.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[20Jul2025 18:32:51.767] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.413482666015625) to VERY_HIGH (avg. 66.51007843017578)
+[20Jul2025 18:33:06.908] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 66.51007843017578) to NORMAL (avg. 44.11212921142578)
+[20Jul2025 18:33:20.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Cover Me with Diamonds]
+[20Jul2025 18:33:27.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: REDORSIDI has made the advancement [Mother of Dragons]
+[20Jul2025 18:34:05.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MilerinotFound lost connection: Disconnected
+[20Jul2025 18:34:05.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound left the game
+[20Jul2025 18:34:13.265] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.10248565673828) to LOW (avg. 33.023162841796875)
+[20Jul2025 18:35:20.767] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.5670051574707) to NORMAL (avg. 43.328575134277344)
+[20Jul2025 18:35:43.267] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.77540588378906) to MEDIUM (avg. 46.147361755371094)
+[20Jul2025 18:35:49.801] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CrowEntity['Crow'/3118356, l='ServerLevel[world]', x=974.95, y=72.00, z=131.41]
+[20Jul2025 18:35:58.265] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.147361755371094) to LOW (avg. 38.745384216308594)
+[20Jul2025 18:36:13.432] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.745384216308594) to HIGH (avg. 50.426612854003906)
+[20Jul2025 18:36:20.765] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.426612854003906) to NORMAL (avg. 42.039398193359375)
+[20Jul2025 18:36:25.632] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2080, y=-40, z=-1691}
+[20Jul2025 18:36:25.632] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2080, y=-39, z=-1691}
+[20Jul2025 18:36:35.786] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.039398193359375) to HIGH (avg. 49.576416015625)
+[20Jul2025 18:36:58.265] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.83100891113281) to LOW (avg. 29.2088565826416)
+[20Jul2025 18:39:13.335] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.964778900146484) to NORMAL (avg. 41.10211944580078)
+[20Jul2025 18:40:05.780] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.345703125) to MEDIUM (avg. 46.79851531982422)
+[20Jul2025 18:40:13.265] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.79851531982422) to NORMAL (avg. 41.98225784301758)
+[20Jul2025 18:41:13.265] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.74354934692383) to LOW (avg. 30.054656982421875)
+[20Jul2025 18:41:21.596] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2107, y=-18, z=-1459}
+[20Jul2025 18:41:21.597] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2107, y=-18, z=-1460}
+[20Jul2025 18:41:25.555] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2017, y=16, z=-1716}
+[20Jul2025 18:41:25.555] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2017, y=16, z=-1718}
+[20Jul2025 18:42:43.363] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.46259307861328) to NORMAL (avg. 40.24143981933594)
+[20Jul2025 18:42:59.423] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.074188232421875) to HIGH (avg. 54.59811019897461)
