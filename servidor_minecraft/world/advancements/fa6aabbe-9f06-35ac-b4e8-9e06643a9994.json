@@ -1749,6 +1749,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-20 17:44:54 +0000",
       "minecraft:taiga": "2025-07-19 19:08:08 +0000",
+      "minecraft:deep_ocean": "2025-07-20 18:23:54 +0000",
       "minecraft:cherry_grove": "2025-07-19 19:21:01 +0000",
       "minecraft:birch_forest": "2025-07-19 19:36:43 +0000",
       "minecraft:windswept_hills": "2025-07-19 19:48:20 +0000",
@@ -1762,6 +1763,7 @@
       "minecraft:forest": "2025-07-19 00:51:58 +0000",
       "minecraft:ocean": "2025-07-19 19:37:40 +0000",
       "minecraft:jungle": "2025-07-20 17:59:08 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-20 18:26:21 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-19 19:36:38 +0000",
       "minecraft:meadow": "2025-07-19 00:05:49 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-19 19:00:31 +0000",
@@ -5359,6 +5361,12 @@
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2025-07-20 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-20 18:18:03 +0000"
     },
     "done": true
   },
