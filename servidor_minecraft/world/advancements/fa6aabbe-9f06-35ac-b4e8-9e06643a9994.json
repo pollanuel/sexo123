@@ -5180,285 +5180,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 19:54:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 19:54:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 19:54:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 19:54:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 19:54:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 19:54:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 19:54:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 19:54:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 19:54:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 19:54:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 19:54:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 19:54:53 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-07-20 17:14:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-07-20 19:25:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-07-20 19:25:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_purple_dye": "2025-07-20 19:51:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:pixie": {
-    "criteria": {
-      "crafting_table": "2025-07-20 17:36:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_candle": {
-    "criteria": {
-      "has_purple_dye": "2025-07-20 19:51:38 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:spider": {
-    "criteria": {
-      "crafting_table": "2025-07-20 17:33:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-07-20 18:33:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_purple_dye": "2025-07-20 19:51:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-07-20 18:46:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-07-20 18:09:00 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:20": {
-    "criteria": {
-      "example": "2025-07-20 18:05:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/coffin_blue": {
-    "criteria": {
-      "has_wool": "2025-07-20 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/hunter/hunter_table": {
-    "criteria": {
-      "has_fang": "2025-07-20 17:30:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2025-07-20 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:saddle": {
-    "criteria": {
-      "crafting_table": "2025-07-20 17:35:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2025-07-20 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:sun": {
-    "criteria": {
-      "crafting_table": "2025-07-20 18:02:05 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:moon": {
-    "criteria": {
-      "crafting_table": "2025-07-20 18:06:07 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/coffin_purple_from_white": {
-    "criteria": {
-      "has_dye": "2025-07-20 19:51:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-07-20 18:08:45 +0000"
-    },
-    "done": true
-  },
-  "vampirism:main/root": {
-    "criteria": {
-      "main": "2025-07-20 17:30:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-07-20 19:51:06 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:illuminati": {
-    "criteria": {
-      "crafting_table": "2025-07-20 19:47:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:meta": {
-    "criteria": {
-      "crafting_table": "2025-07-20 19:47:09 +0000"
     },
     "done": true
   },
@@ -5474,9 +5198,267 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_blue": {
+    "criteria": {
+      "has_wool": "2025-07-20 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-07-20 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-07-20 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-07-20 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-07-20 17:30:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-07-20 17:30:27 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:spider": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:33:58 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:saddle": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:35:45 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:pixie": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:36:44 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:snowgolem": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:37:07 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:sun": {
+    "criteria": {
+      "crafting_table": "2025-07-20 18:02:05 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:20": {
+    "criteria": {
+      "example": "2025-07-20 18:05:14 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:pig": {
+    "criteria": {
+      "crafting_table": "2025-07-20 18:05:14 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:moon": {
+    "criteria": {
+      "crafting_table": "2025-07-20 18:06:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-20 18:08:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-07-20 18:09:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-20 18:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-07-20 18:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-20 18:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-20 19:25:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "gold": "2025-07-20 19:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-20 19:25:48 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:meta": {
+    "criteria": {
+      "crafting_table": "2025-07-20 19:47:09 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:illuminati": {
+    "criteria": {
+      "crafting_table": "2025-07-20 19:47:21 +0000"
+    },
+    "done": true
+  },
   "inventorypets:use_meta": {
     "criteria": {
       "example": "2025-07-20 19:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-20 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-07-20 19:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-07-20 19:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-07-20 19:51:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_purple_from_white": {
+    "criteria": {
+      "has_dye": "2025-07-20 19:51:38 +0000"
     },
     "done": true
   },
@@ -5492,63 +5474,747 @@
     },
     "done": true
   },
-  "inventorypets:pig": {
-    "criteria": {
-      "crafting_table": "2025-07-20 18:05:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-20 19:51:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
+  "alexscaves:alexscaves/shadow_armor": {
     "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
+      "helmet": "2025-07-20 20:00:42 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
     },
     "done": true
   },
-  "inventorypets:snowgolem": {
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
-      "crafting_table": "2025-07-20 17:37:07 +0000"
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
-      "gold": "2025-07-20 19:25:34 +0000"
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
-      "has_blue_wool": "2025-07-20 17:20:05 +0000"
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "create:recipes/building_blocks/polished_cut_scoria_slab": {
     "criteria": {
-      "killed_fire_dragon": "2025-07-20 18:18:03 +0000"
+      "has_polished_cut_scoria": "2025-07-20 20:04:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
+  "create:recipes/building_blocks/polished_cut_scoria_stairs": {
     "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
+      "has_polished_cut_scoria": "2025-07-20 20:04:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
-      "give_recipe": "2025-07-20 17:25:52 +0000"
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall": {
+    "criteria": {
+      "has_polished_cut_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-07-20 20:04:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-07-20 20:08:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "helmet": "2025-07-20 20:10:00 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 21:08:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 21:08:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 21:08:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 21:08:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 21:08:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 21:08:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 21:08:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 21:08:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 21:08:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 21:08:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 21:08:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 21:08:51 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_pressure_plate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brown_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:sated_chest": {
+    "criteria": {
+      "crafting_table": "2025-07-20 20:13:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-20 20:46:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-07-20 20:46:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2025-07-20 21:09:03 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:potion_jar": {
+    "criteria": {
+      "has_potion_jar": "2025-07-20 20:47:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_gate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_normal": {
+    "criteria": {
+      "has_ingot": "2025-07-20 20:22:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:17:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-07-20 20:31:04 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:politicallycorrect": {
+    "criteria": {
+      "crafting_table": "2025-07-20 20:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/lime_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_button_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_stairs_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/crafting_table_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/orange_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-07-20 20:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_fence_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/barrel_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_connected_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_door_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_slab_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_chest_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pressure_plate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_sign_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_button_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/stripped_acacia_wood_from_acacia_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:17:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_normal": {
+    "criteria": {
+      "has_ingot": "2025-07-20 20:22:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:magic_garlic_bread": {
+    "criteria": {
+      "has_item": "2025-07-20 20:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_sign_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:cloud": {
+    "criteria": {
+      "crafting_table": "2025-07-20 20:44:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-07-20 20:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_connected_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_fence_gate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-07-20 20:56:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/yellow_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/light_blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_door_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/red_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_stairs_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_slab_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cyan_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_trapdoor_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_stripped_acacia_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:59:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blood_infused_iron_block": {
+    "criteria": {
+      "has_blood_infused_iron_ingot": "2025-07-20 20:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-07-20 20:46:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/pink_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-20 20:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-20 20:17:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_layered_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-07-20 20:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_trapdoor_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 20:39:26 +0000"
     },
     "done": true
   },
