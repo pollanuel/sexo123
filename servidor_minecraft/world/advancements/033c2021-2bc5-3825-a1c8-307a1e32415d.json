@@ -1749,6 +1749,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-19 00:09:27 +0000",
       "minecraft:taiga": "2025-07-19 18:20:46 +0000",
+      "minecraft:birch_forest": "2025-07-20 00:39:09 +0000",
       "minecraft:windswept_hills": "2025-07-20 00:26:42 +0000",
       "minecraft:beach": "2025-07-19 18:19:37 +0000",
       "minecraft:river": "2025-07-19 00:32:46 +0000",
@@ -1757,6 +1758,7 @@
       "minecraft:forest": "2025-07-18 23:59:35 +0000",
       "minecraft:windswept_savanna": "2025-07-20 00:15:03 +0000",
       "minecraft:flower_forest": "2025-07-20 00:26:52 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-20 00:34:46 +0000",
       "minecraft:meadow": "2025-07-18 23:59:04 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-19 01:44:11 +0000",
       "minecraft:plains": "2025-07-19 00:00:13 +0000"
@@ -2572,6 +2574,7 @@
       "minecraft:slime": "2025-07-20 00:06:42 +0000",
       "minecraft:phantom": "2025-07-19 19:26:23 +0000",
       "minecraft:witch": "2025-07-19 01:03:19 +0000",
+      "minecraft:enderman": "2025-07-20 00:50:05 +0000",
       "minecraft:zombie": "2025-07-19 00:03:03 +0000"
     },
     "done": false
@@ -6608,6 +6611,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-20 00:48:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-19 23:32:29 +0000"
@@ -6623,6 +6632,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-19 23:02:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
     },
     "done": true
   },
@@ -6671,6 +6686,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:blaze": {
+    "criteria": {
+      "crafting_table": "2025-07-20 00:40:41 +0000"
     },
     "done": true
   },
@@ -6770,6 +6791,12 @@
     },
     "done": true
   },
+  "inventorypets:jukebox": {
+    "criteria": {
+      "crafting_table": "2025-07-20 00:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 23:41:44 +0000"
@@ -6779,6 +6806,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 23:32:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
     },
     "done": true
   },
@@ -6809,6 +6842,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-19 23:32:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:21 +0000"
     },
     "done": true
   },
@@ -6845,6 +6884,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-19 23:12:18 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:10": {
+    "criteria": {
+      "example": "2025-07-20 00:39:26 +0000"
     },
     "done": true
   },
@@ -6890,9 +6935,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
     },
     "done": true
   },
@@ -6908,6 +6965,12 @@
     },
     "done": true
   },
+  "inventorypets:creeper": {
+    "criteria": {
+      "crafting_table": "2025-07-20 00:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 23:41:44 +0000"
@@ -6917,6 +6980,12 @@
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-07-19 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
     },
     "done": true
   },
@@ -6965,6 +7034,24 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-19 23:02:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-07-20 00:47:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
     },
     "done": true
   },
@@ -7058,6 +7145,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-19 23:32:35 +0000"
@@ -7079,6 +7172,12 @@
   "immersive_weathering:recipes/deepslate_tiles": {
     "criteria": {
       "has_copper_block": "2025-07-19 23:02:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
     },
     "done": true
   },
@@ -7109,6 +7208,12 @@
   "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
       "has_glass_panes_colorless": "2025-07-19 23:32:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
     },
     "done": true
   },
@@ -7196,6 +7301,12 @@
     },
     "done": true
   },
+  "inventorypets:moon": {
+    "criteria": {
+      "crafting_table": "2025-07-20 00:36:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-07-19 23:01:30 +0000"
@@ -7238,6 +7349,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-07-19 23:41:44 +0000"
@@ -7259,6 +7376,18 @@
   "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-07-19 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-20 00:43:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_exposed_copper_tile_stairs_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2025-07-20 00:39:11 +0000"
     },
     "done": true
   },
@@ -7298,6 +7427,12 @@
     },
     "done": true
   },
+  "inventorypets:illuminati": {
+    "criteria": {
+      "crafting_table": "2025-07-20 00:38:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_door_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 23:34:33 +0000"
@@ -7313,6 +7448,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_fence_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 00:17:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
     },
     "done": true
   },
@@ -7364,6 +7505,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-07-20 00:47:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-19 23:32:35 +0000"
@@ -7385,6 +7532,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 23:32:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
     },
     "done": true
   },
@@ -7622,6 +7775,12 @@
     },
     "done": true
   },
+  "inventorypets:snowgolem": {
+    "criteria": {
+      "crafting_table": "2025-07-20 00:39:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-19 23:32:35 +0000"
@@ -7655,6 +7814,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_planks_from_stripped_jungle_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 00:17:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/blood_sieve": {
+    "criteria": {
+      "has_cauldron": "2025-07-20 00:45:35 +0000"
     },
     "done": true
   },
@@ -7709,6 +7874,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-19 23:32:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
     },
     "done": true
   },
@@ -7781,6 +7952,18 @@
   "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 00:17:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-07-20 00:47:44 +0000"
     },
     "done": true
   },

@@ -1748,6 +1748,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-07-20 00:14:45 +0000",
+      "minecraft:birch_forest": "2025-07-20 00:38:52 +0000",
       "minecraft:beach": "2025-07-19 23:49:05 +0000",
       "minecraft:river": "2025-07-19 00:46:06 +0000",
       "minecraft:stony_shore": "2025-07-19 00:31:56 +0000",
@@ -1755,6 +1756,7 @@
       "minecraft:cold_ocean": "2025-07-19 00:45:19 +0000",
       "minecraft:forest": "2025-07-18 23:59:19 +0000",
       "minecraft:windswept_savanna": "2025-07-20 00:15:21 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-20 00:33:29 +0000",
       "minecraft:meadow": "2025-07-18 23:57:57 +0000",
       "minecraft:plains": "2025-07-19 00:02:13 +0000"
     },
@@ -4863,6 +4865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/stripped_birch_log_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 00:36:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_leggings": {
     "criteria": {
       "has_item": "2025-07-19 23:55:24 +0000"
@@ -4872,6 +4880,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-20 00:23:51 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:torch": {
+    "criteria": {
+      "crafting_table": "2025-07-20 00:40:07 +0000"
     },
     "done": true
   },
@@ -4887,6 +4901,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/iron_nugget": {
+    "criteria": {
+      "has_copper_block": "2025-07-20 00:36:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-20 00:23:47 +0000"
@@ -4899,15 +4919,33 @@
     },
     "done": true
   },
+  "inventorypets:endportal": {
+    "criteria": {
+      "crafting_table": "2025-07-20 00:37:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-20 00:22:35 +0000"
     },
     "done": true
   },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-07-20 00:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-07-20 00:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-20 00:36:48 +0000"
     },
     "done": true
   },
@@ -4926,6 +4964,12 @@
   "iceandfire:recipes/combat/armor_green_helmet": {
     "criteria": {
       "has_item": "2025-07-19 23:55:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-07-20 00:46:08 +0000"
     },
     "done": true
   },
@@ -5043,6 +5087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-20 00:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-20 00:23:47 +0000"
@@ -5052,6 +5102,12 @@
   "iceandfire:iceandfire/kill_stymphalian_bird": {
     "criteria": {
       "killed_fire_dragon": "2025-07-20 00:01:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-20 00:36:41 +0000"
     },
     "done": true
   },
@@ -5070,6 +5126,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-20 00:23:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:now_you_can_rest": {
+    "criteria": {
+      "now_you_can_rest_0": "2025-07-20 00:35:41 +0000"
     },
     "done": true
   },
@@ -5109,6 +5171,12 @@
     },
     "done": true
   },
+  "inventorypets:5": {
+    "criteria": {
+      "example": "2025-07-20 00:39:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-07-20 00:01:56 +0000"
@@ -5136,6 +5204,18 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-07-20 00:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-20 00:36:41 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/oak_leaves": {
+    "criteria": {
+      "has_copper_block": "2025-07-20 00:38:00 +0000"
     },
     "done": true
   },
@@ -5184,6 +5264,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-07-20 00:01:56 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:illuminati": {
+    "criteria": {
+      "crafting_table": "2025-07-20 00:49:20 +0000"
     },
     "done": true
   },
@@ -5253,6 +5339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 00:36:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2025-07-20 00:01:36 +0000"
@@ -5307,6 +5399,12 @@
     },
     "done": true
   },
+  "inventorypets:snowgolem": {
+    "criteria": {
+      "crafting_table": "2025-07-20 00:39:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-20 00:23:47 +0000"
@@ -5334,6 +5432,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-07-20 00:09:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-07-20 00:48:18 +0000"
     },
     "done": true
   },
