@@ -89,3 +89,39 @@
 [20Jul2025 00:19:38.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Who is Cutting Onions?]
 [20Jul2025 00:20:14.864] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.1685676574707) to HIGH (avg. 51.12457275390625)
 [20Jul2025 00:20:37.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.83988952636719) to LOW (avg. 39.868282318115234)
+[20Jul2025 00:24:14.841] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.02978515625) to NORMAL (avg. 40.835628509521484)
+[20Jul2025 00:24:22.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.835628509521484) to LOW (avg. 28.61468505859375)
+[20Jul2025 00:25:00.900] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[20Jul2025 00:25:00.900] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[20Jul2025 00:25:12.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has completed the challenge [Premium!]
+[20Jul2025 00:25:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [How'd You Get This?]
+[20Jul2025 00:26:59.837] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.244136810302734) to NORMAL (avg. 42.756553649902344)
+[20Jul2025 00:27:07.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.756553649902344) to LOW (avg. 37.23614501953125)
+[20Jul2025 00:27:18.616] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3067035, l='ServerLevel[world]', x=2006.69, y=16.18, z=336.33, removed=DISCARDED]
+[20Jul2025 00:27:24.235] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3067035, l='ServerLevel[world]', x=2006.69, y=16.18, z=336.33, removed=DISCARDED]
+[20Jul2025 00:27:52.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.58048439025879) to NORMAL (avg. 40.43621826171875)
+[20Jul2025 00:27:59.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.43621826171875) to LOW (avg. 29.744403839111328)
+[20Jul2025 00:28:12.255] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:12.256] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:12.269] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:12.270] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:17.532] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:17.532] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:17.533] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:17.533] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:17.533] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:17.624] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:17.625] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:44.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.24947738647461) to NORMAL (avg. 42.457332611083984)
+[20Jul2025 00:28:49.912] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:49.912] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:49.912] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:49.913] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:49.913] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:52.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.457332611083984) to LOW (avg. 39.361106872558594)
+[20Jul2025 00:28:52.624] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:28:52.624] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:29:22.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.05348587036133) to NORMAL (avg. 40.90911865234375)
+[20Jul2025 00:29:37.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.90911865234375) to LOW (avg. 33.592926025390625)
+[20Jul2025 00:31:22.359] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.63715744018555) to MEDIUM (avg. 46.93729019165039)
+[20Jul2025 00:31:37.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.93729019165039) to LOW (avg. 25.919296264648438)

@@ -1749,12 +1749,14 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-19 00:09:27 +0000",
       "minecraft:taiga": "2025-07-19 18:20:46 +0000",
+      "minecraft:windswept_hills": "2025-07-20 00:26:42 +0000",
       "minecraft:beach": "2025-07-19 18:19:37 +0000",
       "minecraft:river": "2025-07-19 00:32:46 +0000",
       "minecraft:stony_shore": "2025-07-19 00:29:14 +0000",
       "minecraft:swamp": "2025-07-20 00:01:01 +0000",
       "minecraft:forest": "2025-07-18 23:59:35 +0000",
       "minecraft:windswept_savanna": "2025-07-20 00:15:03 +0000",
+      "minecraft:flower_forest": "2025-07-20 00:26:52 +0000",
       "minecraft:meadow": "2025-07-18 23:59:04 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-19 01:44:11 +0000",
       "minecraft:plains": "2025-07-19 00:00:13 +0000"
@@ -2537,6 +2539,7 @@
       "apple": "2025-07-19 00:36:41 +0000",
       "cooked_cod": "2025-07-19 00:59:48 +0000",
       "bread": "2025-07-19 00:02:36 +0000",
+      "golden_apple": "2025-07-20 00:25:15 +0000",
       "glow_berries": "2025-07-19 00:32:43 +0000",
       "salmon": "2025-07-19 22:16:12 +0000",
       "melon_slice": "2025-07-19 22:39:57 +0000",
