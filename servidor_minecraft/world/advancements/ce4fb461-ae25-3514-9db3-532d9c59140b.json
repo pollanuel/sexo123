@@ -3824,77 +3824,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "inventorypets:squid": {
     "criteria": {
-      "log_spam_fixer": "2025-07-20 06:12:29 +0000"
+      "crafting_table": "2025-07-20 19:28:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-20 06:12:29 +0000"
+      "has_basalt": "2025-07-20 19:27:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-20 06:12:29 +0000"
+      "has_basalt": "2025-07-20 19:27:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-20 06:12:29 +0000"
+      "has_basalt": "2025-07-20 19:27:03 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 06:12:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 06:12:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 06:12:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 06:12:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 06:12:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 06:12:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 06:12:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 06:12:29 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

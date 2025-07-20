@@ -5192,6 +5192,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-20 19:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-20 19:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:25:52 +0000"
@@ -5363,6 +5375,12 @@
   "inventorypets:snowgolem": {
     "criteria": {
       "crafting_table": "2025-07-20 17:37:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "gold": "2025-07-20 19:25:34 +0000"
     },
     "done": true
   },

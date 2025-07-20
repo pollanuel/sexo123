@@ -2553,6 +2553,7 @@
       "golden_carrot": "2025-07-19 23:57:08 +0000",
       "mushroom_stew": "2025-07-19 01:47:01 +0000",
       "rabbit_stew": "2025-07-19 00:56:52 +0000",
+      "cooked_salmon": "2025-07-20 19:23:46 +0000",
       "carrot": "2025-07-19 19:27:58 +0000"
     },
     "done": false
@@ -8864,9 +8865,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-20 19:27:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-20 19:21:47 +0000"
+    },
+    "done": true
+  },
+  "terramity:stone_mask_advancement": {
+    "criteria": {
+      "stone_mask_advancement_0": "2025-07-20 19:28:52 +0000"
     },
     "done": true
   },
@@ -8891,6 +8904,12 @@
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-20 19:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-07-20 19:22:48 +0000"
     },
     "done": true
   },
@@ -8972,6 +8991,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2025-07-20 19:25:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-20 19:21:47 +0000"
@@ -8987,6 +9012,12 @@
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-20 19:20:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_ring": "2025-07-20 19:25:05 +0000"
     },
     "done": true
   },
@@ -9077,6 +9108,18 @@
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-07-20 19:21:47 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-07-20 19:25:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_ring": "2025-07-20 19:25:05 +0000"
     },
     "done": true
   },
