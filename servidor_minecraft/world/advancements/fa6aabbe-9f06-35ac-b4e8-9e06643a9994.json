@@ -5210,6 +5210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-07-20 19:51:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:25:52 +0000"
@@ -5222,6 +5228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-07-20 19:51:38 +0000"
+    },
+    "done": true
+  },
   "inventorypets:spider": {
     "criteria": {
       "crafting_table": "2025-07-20 17:33:58 +0000"
@@ -5231,6 +5243,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-07-20 18:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-07-20 19:51:38 +0000"
     },
     "done": true
   },
@@ -5324,6 +5342,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_purple_from_white": {
+    "criteria": {
+      "has_dye": "2025-07-20 19:51:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:25:52 +0000"
@@ -5342,9 +5366,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-20 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:illuminati": {
+    "criteria": {
+      "crafting_table": "2025-07-20 19:47:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:meta": {
+    "criteria": {
+      "crafting_table": "2025-07-20 19:47:09 +0000"
     },
     "done": true
   },
@@ -5360,9 +5402,33 @@
     },
     "done": true
   },
+  "inventorypets:use_meta": {
+    "criteria": {
+      "example": "2025-07-20 19:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-20 19:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-20 19:51:38 +0000"
+    },
+    "done": true
+  },
   "inventorypets:pig": {
     "criteria": {
       "crafting_table": "2025-07-20 18:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-20 19:51:38 +0000"
     },
     "done": true
   },
