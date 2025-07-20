@@ -4921,77 +4921,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "cataclysm:find_frosted_prison": {
     "criteria": {
-      "log_spam_fixer": "2025-07-20 04:43:17 +0000"
+      "prison": "2025-07-20 03:06:18 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 04:43:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 04:43:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 04:43:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 04:43:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 04:43:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 04:43:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 04:43:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 04:43:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 04:43:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 04:43:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-20 04:43:17 +0000"
-    },
-    "done": false
+    "done": true
   },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
@@ -5011,72 +4945,6 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-07-20 03:26:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-07-20 04:17:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_crimsite_brick_slab_recycling": {
-    "criteria": {
-      "has_small_crimsite_brick_slab": "2025-07-20 03:41:58 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:apprentice_spell_book": {
-    "criteria": {
-      "has_apprentice_spell_book": "2025-07-20 03:32:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/green_table_cloth_from_other_table_cloth": {
-    "criteria": {
-      "has_postbox": "2025-07-20 04:05:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-20 03:10:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth_from_other_table_cloth": {
-    "criteria": {
-      "has_postbox": "2025-07-20 04:05:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth_from_other_table_cloth": {
-    "criteria": {
-      "has_postbox": "2025-07-20 04:05:03 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:alteration_table": {
-    "criteria": {
-      "has_alteration_table": "2025-07-20 03:49:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/white_table_cloth_from_other_table_cloth": {
-    "criteria": {
-      "has_postbox": "2025-07-20 04:05:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth_from_other_table_cloth": {
-    "criteria": {
-      "has_postbox": "2025-07-20 04:05:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-07-20 03:10:05 +0000"
@@ -5086,48 +4954,6 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-20 03:10:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-20 03:10:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/lime_table_cloth_clear": {
-    "criteria": {
-      "has_lime_table_cloth": "2025-07-20 04:05:03 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_frosted_prison": {
-    "criteria": {
-      "prison": "2025-07-20 03:06:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/black_table_cloth_from_other_table_cloth": {
-    "criteria": {
-      "has_postbox": "2025-07-20 04:05:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/gray_table_cloth_from_other_table_cloth": {
-    "criteria": {
-      "has_postbox": "2025-07-20 04:05:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth_from_other_table_cloth": {
-    "criteria": {
-      "has_postbox": "2025-07-20 04:05:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/red_table_cloth_from_other_table_cloth": {
-    "criteria": {
-      "has_postbox": "2025-07-20 04:05:03 +0000"
     },
     "done": true
   },
@@ -5161,21 +4987,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_wood_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-20 03:49:47 +0000"
-    },
-    "done": true
-  },
   "immersive_weathering:recipes/stone_bricks": {
     "criteria": {
       "has_copper_block": "2025-07-20 03:10:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth_from_other_table_cloth": {
-    "criteria": {
-      "has_postbox": "2025-07-20 04:05:03 +0000"
     },
     "done": true
   },
@@ -5185,57 +4999,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth_from_other_table_cloth": {
-    "criteria": {
-      "has_postbox": "2025-07-20 04:05:03 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_all_bosses": {
-    "criteria": {
-      "cataclysm:maledictus": "2025-07-20 03:15:03 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth_from_other_table_cloth": {
-    "criteria": {
-      "has_postbox": "2025-07-20 04:05:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-20 03:10:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-07-20 03:20:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth_from_other_table_cloth": {
-    "criteria": {
-      "has_postbox": "2025-07-20 04:05:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-07-20 03:49:47 +0000"
-    },
-    "done": true
-  },
-  "vampirism:main/ancient_knowledge": {
-    "criteria": {
-      "blood_container": "2025-07-20 04:15:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-20 03:10:06 +0000"
     },
     "done": true
   },
@@ -5245,9 +5011,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
-      "has_the_recipe": "2025-07-20 04:04:38 +0000"
+      "has_polished_andesite": "2025-07-20 03:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-20 03:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-20 03:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-20 03:10:06 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:maledictus": "2025-07-20 03:15:03 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-07-20 03:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-20 03:20:29 +0000"
     },
     "done": true
   },
@@ -5257,9 +5059,129 @@
     },
     "done": false
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_carrot": "2025-07-20 04:20:18 +0000"
+      "diamond_helmet": "2025-07-20 03:26:58 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-07-20 03:32:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_recycling": {
+    "criteria": {
+      "has_small_crimsite_brick_slab": "2025-07-20 03:41:58 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:alteration_table": {
+    "criteria": {
+      "has_alteration_table": "2025-07-20 03:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 03:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-20 03:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-07-20 04:04:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_table_cloth_from_other_table_cloth": {
+    "criteria": {
+      "has_postbox": "2025-07-20 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth_from_other_table_cloth": {
+    "criteria": {
+      "has_postbox": "2025-07-20 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth_from_other_table_cloth": {
+    "criteria": {
+      "has_postbox": "2025-07-20 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_table_cloth_from_other_table_cloth": {
+    "criteria": {
+      "has_postbox": "2025-07-20 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth_from_other_table_cloth": {
+    "criteria": {
+      "has_postbox": "2025-07-20 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/lime_table_cloth_clear": {
+    "criteria": {
+      "has_lime_table_cloth": "2025-07-20 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_table_cloth_from_other_table_cloth": {
+    "criteria": {
+      "has_postbox": "2025-07-20 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_table_cloth_from_other_table_cloth": {
+    "criteria": {
+      "has_postbox": "2025-07-20 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth_from_other_table_cloth": {
+    "criteria": {
+      "has_postbox": "2025-07-20 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_table_cloth_from_other_table_cloth": {
+    "criteria": {
+      "has_postbox": "2025-07-20 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth_from_other_table_cloth": {
+    "criteria": {
+      "has_postbox": "2025-07-20 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth_from_other_table_cloth": {
+    "criteria": {
+      "has_postbox": "2025-07-20 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth_from_other_table_cloth": {
+    "criteria": {
+      "has_postbox": "2025-07-20 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth_from_other_table_cloth": {
+    "criteria": {
+      "has_postbox": "2025-07-20 04:05:03 +0000"
     },
     "done": true
   },
@@ -5275,23 +5197,101 @@
     },
     "done": true
   },
-  "cataclysm:kill_maledictus": {
-    "criteria": {
-      "ignis": "2025-07-20 03:15:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-20 03:10:06 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/lime_table_cloth_from_other_table_cloth": {
     "criteria": {
       "has_postbox": "2025-07-20 04:05:03 +0000"
     },
     "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-07-20 04:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-20 04:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-20 04:20:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 05:03:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 05:03:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 05:03:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 05:03:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 05:03:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 05:03:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 05:03:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 05:03:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 05:03:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 05:03:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 05:03:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-20 05:03:07 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
