@@ -19839,3 +19839,91 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Jul2025 23:51:50.358] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.999916076660156) to HIGH (avg. 49.49019241333008)
 [19Jul2025 23:52:01.338] [Server thread/INFO] [APTweaks(Player)/]: Protected Player panela_limon was successful validated after 25 secs.
 [19Jul2025 23:52:01.338] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player panela_limon!
+[19Jul2025 23:52:44.056] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.886314392089844) to VERY_HIGH (avg. 58.126007080078125)
+[19Jul2025 23:52:58.122] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.126007080078125) to NORMAL (avg. 43.122432708740234)
+[19Jul2025 23:53:08.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [So Cheesy]
+[19Jul2025 23:53:13.071] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.122432708740234) to MEDIUM (avg. 48.81871795654297)
+[19Jul2025 23:53:20.721] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.81871795654297) to HIGH (avg. 51.542579650878906)
+[19Jul2025 23:53:35.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.542579650878906) to MEDIUM (avg. 46.659690856933594)
+[19Jul2025 23:53:50.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.659690856933594) to LOW (avg. 39.155582427978516)
+[19Jul2025 23:54:05.433] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.155582427978516) to NORMAL (avg. 42.99751281738281)
+[19Jul2025 23:54:28.373] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.585445404052734) to HIGH (avg. 51.175872802734375)
+[19Jul2025 23:54:43.655] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.175872802734375) to NORMAL (avg. 45.19761657714844)
+[19Jul2025 23:54:57.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.19761657714844) to LOW (avg. 39.20040512084961)
+[19Jul2025 23:55:12.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.20040512084961) to NORMAL (avg. 41.85719680786133)
+[19Jul2025 23:55:21.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Dragonslayer]
+[19Jul2025 23:55:35.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.88435363769531) to LOW (avg. 36.62679672241211)
+[19Jul2025 23:55:50.470] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/2591577, l='ServerLevel[world]', x=971.50, y=-13.00, z=315.50]
+[19Jul2025 23:55:57.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.4644775390625) to NORMAL (avg. 41.08110046386719)
+[19Jul2025 23:56:12.360] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[19Jul2025 23:56:12.412] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[19Jul2025 23:56:12.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 23:56:12.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 23:56:20.510] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.68590545654297) to VERY_HIGH (avg. 57.5367317199707)
+[19Jul2025 23:56:27.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.5367317199707) to NORMAL (avg. 44.14787292480469)
+[19Jul2025 23:56:42.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.14787292480469) to LOW (avg. 39.67410659790039)
+[19Jul2025 23:57:05.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.7581787109375) to NORMAL (avg. 40.59880065917969)
+[19Jul2025 23:57:20.351] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.488136291503906) to MEDIUM (avg. 46.922969818115234)
+[19Jul2025 23:57:21.590] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[19Jul2025 23:57:27.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.922969818115234) to NORMAL (avg. 44.44548797607422)
+[19Jul2025 23:57:57.984] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.7617301940918) to HIGH (avg. 54.291969299316406)
+[19Jul2025 23:58:13.448] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.291969299316406) to VERY_HIGH (avg. 64.06809997558594)
+[19Jul2025 23:58:27.838] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 64.06809997558594) to NORMAL (avg. 42.941219329833984)
+[19Jul2025 23:59:12.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.15679168701172) to LOW (avg. 39.50613784790039)
+[19Jul2025 23:59:26.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Take Aim]
+[19Jul2025 23:59:27.842] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.50613784790039) to NORMAL (avg. 43.25421142578125)
+[19Jul2025 23:59:35.927] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.25421142578125) to VERY_HIGH (avg. 58.45736312866211)
+[19Jul2025 23:59:50.341] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.45736312866211) to LOW (avg. 38.515018463134766)
+[20Jul2025 00:00:05.556] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.515018463134766) to NORMAL (avg. 40.703853607177734)
+[20Jul2025 00:00:10.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Dragonslayer]
+[20Jul2025 00:00:12.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.703853607177734) to LOW (avg. 39.33979415893555)
+[20Jul2025 00:00:35.368] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.147953033447266) to MEDIUM (avg. 46.37251281738281)
+[20Jul2025 00:00:42.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.37251281738281) to LOW (avg. 37.48451232910156)
+[20Jul2025 00:00:55.329] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity crittersandcompanions:shima_enaga
+[20Jul2025 00:00:57.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.48451232910156) to MEDIUM (avg. 46.98383712768555)
+[20Jul2025 00:01:05.338] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.98383712768555) to NORMAL (avg. 41.89839172363281)
+[20Jul2025 00:01:12.027] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[20Jul2025 00:01:12.081] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[20Jul2025 00:01:12.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 00:01:12.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 00:01:20.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.89839172363281) to LOW (avg. 37.82206344604492)
+[20Jul2025 00:01:28.122] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.82206344604492) to HIGH (avg. 53.39164352416992)
+[20Jul2025 00:01:34.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Herc was on a Roll!]
+[20Jul2025 00:01:35.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.39164352416992) to NORMAL (avg. 41.10322570800781)
+[20Jul2025 00:01:50.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.10322570800781) to LOW (avg. 35.19952392578125)
+[20Jul2025 00:02:12.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.58089065551758) to NORMAL (avg. 42.453704833984375)
+[20Jul2025 00:02:20.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.453704833984375) to LOW (avg. 38.79667282104492)
+[20Jul2025 00:02:35.606] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.79667282104492) to HIGH (avg. 51.13981246948242)
+[20Jul2025 00:02:43.476] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.13981246948242) to VERY_HIGH (avg. 55.07419967651367)
+[20Jul2025 00:03:06.805] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 61.112220764160156) to HIGH (avg. 53.764190673828125)
+[20Jul2025 00:03:20.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.764190673828125) to NORMAL (avg. 41.65118408203125)
+[20Jul2025 00:03:50.498] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.403263092041016) to HIGH (avg. 52.007545471191406)
+[20Jul2025 00:03:57.849] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.007545471191406) to MEDIUM (avg. 48.922271728515625)
+[20Jul2025 00:04:13.943] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.922271728515625) to VERY_HIGH (avg. 59.99235534667969)
+[20Jul2025 00:04:27.857] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.99235534667969) to MEDIUM (avg. 48.23810577392578)
+[20Jul2025 00:04:50.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.96834945678711) to VERY_HIGH (avg. 62.780033111572266)
+[20Jul2025 00:05:05.530] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.780033111572266) to LOW (avg. 39.16365051269531)
+[20Jul2025 00:05:21.756] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.16365051269531) to NORMAL (avg. 43.61601257324219)
+[20Jul2025 00:05:27.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20Jul2025 00:05:30.198] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.61601257324219) to HIGH (avg. 51.27717208862305)
+[20Jul2025 00:05:36.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel lost connection: Disconnected
+[20Jul2025 00:05:36.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel left the game
+[20Jul2025 00:05:37.352] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.27717208862305) to MEDIUM (avg. 48.95802688598633)
+[20Jul2025 00:05:52.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.95802688598633) to LOW (avg. 22.906192779541016)
+[20Jul2025 00:06:14.004] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[20Jul2025 00:06:14.057] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[20Jul2025 00:06:14.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 00:06:14.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 00:07:33.362] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:07:33.385] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:07:33.385] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:07:33.386] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Jul2025 00:09:46.560] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [6d0e71cb-7fbd-3aa8-a3a5-c2f47851e522]
+[20Jul2025 00:11:14.005] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[20Jul2025 00:11:14.058] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[20Jul2025 00:11:14.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 00:11:14.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 00:11:36.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has reached the goal [Postmortal]
+[20Jul2025 00:12:06.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound was struck by lightning
+[20Jul2025 00:12:19.208] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Bubble Amulet'/2879689, l='ServerLevel[world]', x=1466.63, y=61.00, z=154.43]
+[20Jul2025 00:12:22.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon was struck by lightning

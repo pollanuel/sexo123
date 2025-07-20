@@ -1752,6 +1752,7 @@
       "minecraft:beach": "2025-07-19 18:19:37 +0000",
       "minecraft:river": "2025-07-19 00:32:46 +0000",
       "minecraft:stony_shore": "2025-07-19 00:29:14 +0000",
+      "minecraft:swamp": "2025-07-20 00:01:01 +0000",
       "minecraft:forest": "2025-07-18 23:59:35 +0000",
       "minecraft:meadow": "2025-07-18 23:59:04 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-19 01:44:11 +0000",
@@ -2538,6 +2539,7 @@
       "glow_berries": "2025-07-19 00:32:43 +0000",
       "salmon": "2025-07-19 22:16:12 +0000",
       "melon_slice": "2025-07-19 22:39:57 +0000",
+      "golden_carrot": "2025-07-19 23:57:08 +0000",
       "mushroom_stew": "2025-07-19 01:47:01 +0000",
       "rabbit_stew": "2025-07-19 00:56:52 +0000",
       "carrot": "2025-07-19 19:27:58 +0000"
@@ -2563,6 +2565,7 @@
       "minecraft:vindicator": "2025-07-19 01:00:40 +0000",
       "minecraft:spider": "2025-07-19 18:15:21 +0000",
       "minecraft:creeper": "2025-07-19 19:44:54 +0000",
+      "minecraft:slime": "2025-07-20 00:06:42 +0000",
       "minecraft:phantom": "2025-07-19 19:26:23 +0000",
       "minecraft:witch": "2025-07-19 01:03:19 +0000",
       "minecraft:zombie": "2025-07-19 00:03:03 +0000"
@@ -6667,6 +6670,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-20 00:00:22 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-07-19 23:41:44 +0000"
@@ -6676,6 +6685,12 @@
   "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-07-19 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-19 23:59:26 +0000"
     },
     "done": true
   },
@@ -6784,6 +6799,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-19 23:32:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-20 00:00:10 +0000"
     },
     "done": true
   },
@@ -6961,6 +6982,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-07-20 00:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-19 23:12:18 +0000"
@@ -6994,6 +7021,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-19 23:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-20 00:06:48 +0000"
     },
     "done": true
   },
@@ -7261,6 +7294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-20 00:06:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-19 23:32:35 +0000"
@@ -7276,6 +7315,12 @@
   "create:recipes/misc/crafting/materials/transmitter": {
     "criteria": {
       "has_item": "2025-07-19 23:41:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-07-20 00:00:22 +0000"
     },
     "done": true
   },
@@ -7339,6 +7384,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-07-20 00:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/barrel_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-19 23:34:33 +0000"
@@ -7360,6 +7411,18 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-19 23:32:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-20 00:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-20 00:06:48 +0000"
     },
     "done": true
   },
