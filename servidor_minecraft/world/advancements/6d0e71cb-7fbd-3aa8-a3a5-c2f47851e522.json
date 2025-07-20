@@ -8964,6 +8964,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2025-07-20 17:06:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-07-20 16:39:47 +0000"
