@@ -4069,7 +4069,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:ghast": "2025-07-20 05:57:11 +0000",
-      "minecraft:hoglin": "2025-07-20 06:01:01 +0000"
+      "minecraft:hoglin": "2025-07-20 06:01:01 +0000",
+      "minecraft:creeper": "2025-07-20 17:14:45 +0000"
     },
     "done": false
   },
@@ -4121,6 +4122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-20 17:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-07-20 17:00:59 +0000"
@@ -4163,15 +4170,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-20 17:07:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:07:06 +0000"
     },
     "done": true
   },
+  "inventorypets:jukebox": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:22:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:07:03 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:ocelot": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:28:01 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:20": {
+    "criteria": {
+      "example": "2025-07-20 17:28:01 +0000"
     },
     "done": true
   },
@@ -4235,9 +4266,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-07-20 17:16:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-07-20 17:07:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-07-20 17:07:58 +0000"
     },
     "done": true
   },
@@ -4259,6 +4302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-20 17:11:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-20 17:07:03 +0000"
@@ -4274,6 +4323,18 @@
   "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-20 17:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-20 17:07:58 +0000"
     },
     "done": true
   },
@@ -4350,9 +4411,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-20 17:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-20 17:11:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-07-20 17:18:45 +0000"
     },
     "done": true
   },
@@ -4377,6 +4456,12 @@
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-20 17:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-20 17:29:10 +0000"
     },
     "done": true
   },

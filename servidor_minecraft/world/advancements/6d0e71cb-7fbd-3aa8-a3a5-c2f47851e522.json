@@ -1750,6 +1750,7 @@
       "minecraft:snowy_slopes": "2025-07-20 01:44:19 +0000",
       "minecraft:taiga": "2025-07-20 00:14:45 +0000",
       "minecraft:frozen_river": "2025-07-20 01:18:00 +0000",
+      "minecraft:sunflower_plains": "2025-07-20 17:26:31 +0000",
       "minecraft:birch_forest": "2025-07-20 00:38:52 +0000",
       "minecraft:beach": "2025-07-19 23:49:05 +0000",
       "minecraft:dark_forest": "2025-07-20 04:36:54 +0000",
@@ -8964,6 +8965,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 17:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 17:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-20 17:18:50 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/chandelier_candle": {
     "criteria": {
       "has_honey": "2025-07-20 17:06:47 +0000"
@@ -8973,6 +8992,24 @@
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-07-20 16:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:09:58 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:doublechest": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 17:18:20 +0000"
     },
     "done": true
   },
@@ -8988,6 +9025,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 17:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 17:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-20 17:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 17:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 17:18:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_leggings": {
     "criteria": {
       "has_item": "2025-07-20 16:50:34 +0000"
@@ -9000,9 +9067,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-07-20 17:18:24 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/deepslate_tiles": {
     "criteria": {
       "has_copper_block": "2025-07-20 16:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-20 17:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 17:18:20 +0000"
     },
     "done": true
   },
@@ -9018,6 +9103,30 @@
     },
     "done": true
   },
+  "inventorypets:craftingtable": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 17:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/stripped_acacia_wood_from_acacia_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-20 17:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 17:18:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_chestplate": {
     "criteria": {
       "has_item": "2025-07-20 16:50:34 +0000"
@@ -9030,9 +9139,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-20 17:18:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-07-20 16:39:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-07-20 17:18:01 +0000"
     },
     "done": true
   },
@@ -9060,6 +9181,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-07-20 17:18:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_boots": {
     "criteria": {
       "has_item": "2025-07-20 16:50:34 +0000"
@@ -9072,9 +9199,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-20 17:18:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-07-20 16:50:36 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:chest": {
+    "criteria": {
+      "crafting_table": "2025-07-20 17:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-20 17:09:58 +0000"
     },
     "done": true
   },
